@@ -1,7 +1,7 @@
 ---
 ID: 1546
 post_title: Zcash Audit Results
-author: Nathan Wilcox
+author: Maureen Walsh
 post_excerpt: ""
 layout: post
 permalink: https://blog.z.cash/audit-results/
