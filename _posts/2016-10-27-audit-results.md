@@ -8,7 +8,6 @@ permalink: https://blog.z.cash/audit-results/
 published: true
 post_date: 2016-10-27 00:00:00
 ---
-<h3 class="author">Maureen Walsh and Nathan Wilcox</h3>
 As a security-focused team, made up of world-class talent, we prioritize the security of Zcash users. True security comes from empowering users directly, and to that end, we will always disclose vulnerabilities we find (as soon as we're certain such disclosure won't harm live users), and describe how we have fixed them or how we intend to fix them.
 
 In keeping with that value, and with our launch imminent, it's important to share the full details of our commissioned audits.
