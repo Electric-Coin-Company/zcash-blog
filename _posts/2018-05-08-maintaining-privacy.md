@@ -18,4 +18,6 @@ post_date: 2018-05-08 17:10:38
 
 <span style="font-weight: 400;">We recognize that it is common to use transparent addresses for transactions and we need greater shielded address adoption. That is why our current priority is to launch the Zcash Sapling upgrade, scheduled for activation in September of this year, making shielded addresses so efficient that every cryptocurrency exchange, software wallet, hardware wallet, merchant, and product can support shielded addresses as the primary means to send and receive Zcash. It is imperative that a </span><a href="https://blog.z.cash/shielded-ecosystem/"><span style="font-weight: 400;">shielded ecosystem</span></a><span style="font-weight: 400;"> be established to ensure the future of Internet Money.</span>
 
+<strong>Update:</strong> Since we posted this blog, the team behind this research <a href="https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/">released a blog post</a> that nicely summarizes their findings.
+
 <b>Please note that this blog post addresses the specific research in this paper. Users concerned with how to use Zcash safely should see our </b><a href="https://z.cash/support/security/privacy-security-recommendations.html"><b>privacy and security recommendations</b></a><b>.</b>
