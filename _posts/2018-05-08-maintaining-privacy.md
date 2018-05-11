@@ -20,4 +20,4 @@ We recognize that it is common to use transparent addresses for transactions and
 
 <strong>Update:</strong> Since we posted this blog, the team behind this research <a href="https://www.benthamsgaze.org/2018/05/09/the-pools-run-dry-analyzing-anonymity-in-zcash/">released a blog post</a> that nicely summarizes their findings.
 
-<b>Please note that this blog post addresses the specific research in this paper. Users concerned with how to use Zcash safely should see our </b><a href="https://z.cash/support/security/privacy-security-recommendations.html"><b>privacy and security recommendations</b></a><b>.</b>
+<b>Please note that this blog post addresses the specific research in this paper. Users concerned with how to use Zcash safely should see our <a href="https://z.cash/support/security/privacy-security-recommendations.html">privacy and security recommendations</a>.</b>
