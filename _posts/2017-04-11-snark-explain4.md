@@ -48,7 +48,7 @@ Note that in the d-KCA Bob does not send an arbitrary set of :math:`\alpha`-pair
 
 <h2>The Verifiable Blind Evaluation Protocol</h2>
 
-Assume that our <a href="/snark-explain1/">HH</a> is the mapping :math:`E(x)=x\cdot g` for a generator :math:`g` of :math:`G` as above.
+Assume that our <a href="/snark-explain/">HH</a> is the mapping :math:`E(x)=x\cdot g` for a generator :math:`g` of :math:`G` as above.
 
 For simplicity, we present the protocol for this particular :math:`E`:
 
