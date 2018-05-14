@@ -52,9 +52,13 @@ Once this policy is put in to place starting with our 1.0.9 release in May, we a
 We'll also be able to roll out usability improvements, such as <cite>payment disclosure</cite> and in several months' time we'll know that support for those improvements <em>should be</em> widespread, and therefore all wallets and vendors will benefit from ecosystem-wide consistency.
 
 I emphasized "should be" because users may always choose to reject our deprecation policy by editing their local configuration or installing alternative implementations. In that case, we'll have a clear signal from the user community about their reservations with our direction, so this is one of the key mechanisms of our improving governance.
+
 <div id="id2" class="section">
 <h4>We'd Love to Hear From You</h4>
 Please reach out to us with any feedback on this new release policy. You can find us on the <a class="reference external" href="https://chat.zcashcommunity.com">community chat</a> or if preferred, reach out directly via <a class="reference external" href="mailto:info@z.cash">email</a>.
+
+<p><em>Update 2018-05-14:</em> For more information about our release cycle, please read the <a href="/release-cycle-update/">Release Cycle Update</a> blog post.
+
 <table id="id3" class="docutils footnote" frame="void" rules="none"><colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
 <tr>
