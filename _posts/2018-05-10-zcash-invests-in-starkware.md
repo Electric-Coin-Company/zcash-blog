@@ -9,7 +9,9 @@ permalink: >
 published: true
 post_date: 2018-05-10 04:20:04
 ---
-<img class="aligncenter size-full wp-image-3097" src="https://blog.z.cash/wp-content/uploads/2018/05/Stark_zWh2@2x.png" alt="" width="1280" height="398" />Today we are happy to announce that the Zcash Company has invested in <a href="http://www.starkware.co/">StarkWare Industries</a>, a new company developing <a href="https://eprint.iacr.org/2018/046">STARKs</a>. The Starkware announcement is available <a href="https://medium.com/@StarkWare/introducing-starkware-industries-4afa403999f9">here</a>. STARKs are a new cryptographic proof system which is scalable, toxic-waste-free, and post-quantum secure. STARKs may prove to be useful for building more secure and scalable blockchains, as well as potentially providing privacy and computational integrity to other applications beyond blockchains.
+<img class="aligncenter size-full wp-image-3097" src="https://blog.z.cash/wp-content/uploads/2018/05/Stark_zWh2@2x.png" alt="" width="1280" height="398" />
+
+Today we are happy to announce that the Zcash Company has invested in <a href="http://www.starkware.co/">StarkWare Industries</a>, a new company developing <a href="https://eprint.iacr.org/2018/046">STARKs</a>. The Starkware announcement is available <a href="https://medium.com/@StarkWare/introducing-starkware-industries-4afa403999f9">here</a>. STARKs are a new cryptographic proof system which is scalable, toxic-waste-free, and post-quantum secure. STARKs may prove to be useful for building more secure and scalable blockchains, as well as potentially providing privacy and computational integrity to other applications beyond blockchains.
 
 The creators of StarkWare Industries include Zcash founding scientists, professor Eli Ben-Sasson and professor Alessandro Chiesa.
 
