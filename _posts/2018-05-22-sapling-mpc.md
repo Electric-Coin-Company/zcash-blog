@@ -4,8 +4,7 @@ post_title: Announcing the Sapling MPC
 author: Sean Bowe
 post_excerpt: ""
 layout: post
-permalink: >
-  https://blog.z.cash/announcing-the-sapling-mpc/
+permalink: https://blog.z.cash/sapling-mpc/
 published: true
 post_date: 2018-05-22 15:01:33
 ---
