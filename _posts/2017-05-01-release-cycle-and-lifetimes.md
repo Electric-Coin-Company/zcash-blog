@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2017-05-01 00:00:00
 ---
+*Edit 2018-05-31:* Auto-senescence terminology changed to "end-of-support halt".
+
 Starting in May the Zcash development effort will institute a new release policy. There are a few immediate take-aways for users:
 <ul class="simple">
  	<li>We'll release monthly on the third Tuesday, starting with 1.0.9 on May 16th.</li>
@@ -29,7 +31,7 @@ An essential change with this new policy is an explicit <cite>release lifecycle<
 
 For <cite>active releases</cite> which have not yet reached their deprecation date, we make our best effort to provide security fixes, follow up to bug reports, avoid disruption on the production network, and help users to upgrade to the latest release. For <cite>deprecated releases</cite> the only help we promise is in upgrading to the latest release.
 
-In order to codify this cycle, we even intend to introduce a feature called <cite>auto-senescence</cite> starting in 1.0.9 which will cause nodes to automatically exit when they detect they've reached their deprecation phase. This feature will always have an opt-out, since (as discussed below) our goal is to give users their own choice, not to coerce or control them.
+In order to codify this cycle, we even intend to introduce a feature called <cite>end-of-support halt</cite> (previously called "auto-senescence") starting in 1.0.9 which will cause nodes to automatically exit when they detect they've reached their deprecation phase. This feature will always have an opt-out, since (as discussed below) our goal is to give users their own choice, not to coerce or control them.
 
 An important side-note: this policy is defined entirely in the context of a single release, so a user does not need to know anything about our future releases or our new policies for those releases in order to understand this policy for their own installation.
 <div id="user-autonomy-deprecation-vs-auto-upgrade" class="section">
