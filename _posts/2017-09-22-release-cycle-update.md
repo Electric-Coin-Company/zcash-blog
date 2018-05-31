@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-09-22 00:00:00
 ---
-*Edit 2018-05-31:* Auto-senescence terminology changed to "end-of-support halt".
+<strong>Edit 2018-05-31:</strong> Auto-senescence terminology changed to "end-of-support halt".
 
 Ahead of the 1.0.9 release a few months ago, the Zcash development team <a class="reference external" href="/release-cycle-and-lifetimes/">announced</a> a new monthly release cycle and deprecation policy. We learned a lot in the first month of the release cycle and decided to extend it to 6 weeks. We've discussed this openly in the <a class="reference external" href="https://chat.zcashcommunity.com">community chat</a> <cite>#zcash-dev</cite> channel and in the weekly <a class="reference external" href="https://forum.z.cash/c/dev-updates">forum developer updates</a>.
 

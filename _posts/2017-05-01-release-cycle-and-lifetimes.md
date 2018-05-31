@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-05-01 00:00:00
 ---
-*Edit 2018-05-31:* Auto-senescence terminology changed to "end-of-support halt".
+<strong>Edit 2018-05-31:</strong> Auto-senescence terminology changed to "end-of-support halt".
 
 Starting in May the Zcash development effort will institute a new release policy. There are a few immediate take-aways for users:
 <ul class="simple">
