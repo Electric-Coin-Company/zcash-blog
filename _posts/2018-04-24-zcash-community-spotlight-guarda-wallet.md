@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-04-24 15:56:43
 ---
+<strong>Edit 2018-06-06:</strong> The community spotlight has now ended. There were only a few responses, with no resulting bug reports or criticisms. Thank you for participating.
+
 <img class="alignnone size-full wp-image-2811" src="https://blog.z.cash/wp-content/uploads/2018/04/whitespotlight.png" alt="" width="1240" height="301" />
 
 Today we are kicking off a new feature on this blog, and we’re calling it Community Spotlight. Each installment will feature a new Zcash application to showcase important work, and it gives you a chance to provide direct feedback to the developers. 
