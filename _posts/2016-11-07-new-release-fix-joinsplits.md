@@ -15,7 +15,7 @@ post_date: 2016-11-07 00:00:00
 <li>We changed z_sendmany to check if the size of a transaction for a given number of outputs will be valid. (<a class="reference external" href="https://github.com/zcash/zcash/pull/1808">#1808</a>)</li>
 <li>We fixed a bug that could crash the miner when it was interrupted. (<a class="reference external" href="https://github.com/zcash/zcash/pull/1778">#1778</a>)</li>
 <li>Community contributors helped improve our documentation. (<a class="reference external" href="https://github.com/zcash/zcash/pull/1765">#1765</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/1763">#1763</a>)</li>
-</ol><p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">1.0 User Guide</a> for more information.</p>
+</ol><p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">User Guide</a> for more information.</p>
 <p>For a more complete list of changes, see our <a class="reference external" href="https://github.com/zcash/zcash/milestone/45?closed=1">1.0.2</a> github milestone. To follow our progress, watch <a class="reference external" href="https://github.com/zcash/zcash/milestones">the GitHub project</a> and <a class="reference external" href="https://forum.z.cash/">join the forum</a>.</p>
 <div class="section" id="background">
 <h2>Background</h2>
