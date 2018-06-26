@@ -1,8 +1,6 @@
 ---
 ID: 3230
-post_title: >
-  Proposed Zcash Company Roadmap as of
-  June 26, 2018
+post_title: Zcash Company Proposed Roadmap
 author: Josh Swihart
 post_excerpt: ""
 layout: post
