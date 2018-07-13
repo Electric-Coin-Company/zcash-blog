@@ -11,7 +11,7 @@ post_date: 2018-07-13 22:03:46
 ---
 The next major upgrade of Zcash, codenamed Sapling, is scheduled to activate in October 2018. The specific block height has not yet been determined.
 
-Sapling represents over two years of protocol design and engineering with cryptographic breakthroughs that improve the performance and functionality of shielded (encrypted) transactions. Currently, most Zcash transaction use transparent addresses that function in the same way as Bitcoin. This is largely due to the computational cost of encrypting transactions. With Sapling, we move one (giant) step closer to moving toward the ubiquity of shielded addresses.
+Sapling represents over two years of protocol design and engineering with cryptographic breakthroughs that improve the performance and functionality of shielded (encrypted) transactions. Currently, most Zcash transaction use transparent addresses that function in the same way as Bitcoin. This is largely due to the computational cost of proving that shielded transactions are valid. With Sapling, we move one (giant) step closer to moving toward the ubiquity of shielded addresses.
 <h2>Performance for Shielded Transactions</h2>
 <h4>Changes</h4>
 Today, if you create a new z-address it'll look something like this:
