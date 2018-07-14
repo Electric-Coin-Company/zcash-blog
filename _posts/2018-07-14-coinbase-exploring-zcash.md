@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-14 01:18:33
 ---
-<img class="aligncenter size-full wp-image-3278" src="https://blog.z.cash/wp-content/uploads/2018/07/coinbase_z.png" alt="" width="1224" height="381" />
+<img class="aligncenter wp-image-3282 size-full" src="https://blog.z.cash/wp-content/uploads/2018/07/coinbase_z2.png" alt="Coinbase and Zcash" width="1320" height="410" />
 
 <span style="font-weight: 400;">Today, </span><a href="https://blog.coinbase.com/coinbase-is-exploring-cardano-basic-attention-token-stellar-zcash-and-0x-9e44f0eb823f" target="_blank" rel="noopener"><span style="font-weight: 400;">Coinbase announced its intent to explore the listing of Zcash</span></a><span style="font-weight: 400;"> along with four other digital currencies. </span>
 
