@@ -27,12 +27,12 @@ Payments involving the new Sapling z-addresses can be constructed in as little a
 The increased use of shielded addresses will improve the effective privacy for the entire network.
 <h2>Decoupled Spend Authority</h2>
 <h4>Changes</h4>
-All shielded transactions require the creation of a <a href="https://z.cash/technology/zksnarks.html">zero-knowledge proof</a>. Today, the hardware that constructs the proof must also be in possession of the spending key that authorizes the transaction. Sapling changes this by allowing the hardware that constructs the proof to be independent from the hardware that signs for the transaction.
+All shielded transactions require the creation of a <a href="https://z.cash/technology/zksnarks.html">zero-knowledge proof</a>. Today, the hardware that constructs the proof must also be in possession of the spending key that authorizes the transaction. Sapling changes this by allowing the hardware that constructs the proof to be independent from the hardware that signs the transaction.
 <h4>Implications</h4>
 Enterprises can perform an inexpensive signature step in a trusted environment while allowing another computer, not trusted with the spending key, to construct the proof. Additionally, hardware wallets can support shielded addresses by allowing the connected computer to construct the proof without exposing the spending key to that machine.
 <h2>Improved keys</h2>
 <h4>Changes</h4>
-Shielded addresses currently support an <a href="https://blog.z.cash/viewing-keys-selective-disclosure/">incoming viewing key</a>. The holder of an incoming viewing key for a shielded address are able to see the value of all incoming transactions and the memo field. They cannot see the sending address and cannot spend the funds.
+Shielded addresses currently support an <a href="https://blog.z.cash/viewing-keys-selective-disclosure/">incoming viewing key</a>. Holders of an incoming viewing key for a shielded address are able to see the value of all incoming transactions and the memo field. They cannot see the sending address and cannot spend the funds.
 
 Sapling extends the capability of the viewing key to include visibility into outgoing transactions for a shielded address. Visibility includes the transaction value, memo field and target address.
 <h4>Implications</h4>
