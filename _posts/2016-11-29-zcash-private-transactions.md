@@ -25,7 +25,7 @@ Suppose :math:`\mathsf{PK}_1` is Alice's address and she wishes to send her 1 BT
 
 Now suppose each note also contains a random 'serial number' (aka unique identifier) :math:`r.` We will soon see this is helpful for obtaining privacy. Thus, the database may look like this.
 
-:math:`\mathsf{Note}_1=` :math:`(\mathsf{PK}_1,r_1)`, :math:`\mathsf{Note}_2=` :math:`(\mathsf{PK}_1,r_1)`, :math:`\mathsf{Note}_3=` :math:`(\mathsf{PK}_2,r_2)`
+:math:`\mathsf{Note}_1=` :math:`(\mathsf{PK}_1,r_1)`, :math:`\mathsf{Note}_2=` :math:`(\mathsf{PK}_1,r_2)`, :math:`\mathsf{Note}_3=` :math:`(\mathsf{PK}_2,r_3)`
 
 A natural first step towards privacy would be to have the node store only "encryptions", or simply hashes, of the notes, rather than the notes themselves.
 
@@ -64,7 +64,7 @@ More precisely, she does the following.
  	<li>She randomly chooses a new serial number :math:`r_4` and defines the new note :math:`\mathsf{Note}_4=` :math:`(\mathsf{PK}_4,r_4).`</li>
  	<li>She sends :math:`\mathsf{Note}_4` to Bob privately.</li>
  	<li>She sends the nullifier of :math:`\mathsf{Note}_1,` :math:`\mathsf{nf}_2=` :math:`\mathbf{HASH}(\mathsf{r}_1)` to all nodes.</li>
- 	<li>She sends the hash of the new note :math:`\mathsf{H}_4=,` :math:`\mathbf{HASH}(\mathsf{Note}_4)` to all nodes.</li>
+ 	<li>She sends the hash of the new note :math:`\mathsf{H}_4=` :math:`\mathbf{HASH}(\mathsf{Note}_4)` to all nodes.</li>
 </ol>
 Now, when a node receives :math:`\mathsf{nf}_2` and :math:`\mathsf{H}_4,` it will check whether the note corresponding to :math:`\mathsf{nf}_2` has already been spent, simply by checking if :math:`\mathsf{nf}_2` already exists in the nullifier set. If it doesn't, the node adds :math:`\mathsf{nf}_2` to the nullifier set and adds :math:`\mathsf{H}_4` to the set of hashed notes; thereby validating the transaction between Alice and Bob.
 <table class="fixed-table docutils" border="1"><colgroup> <col width="53%" /> <col width="47%" /> </colgroup>
@@ -97,27 +97,21 @@ Now, when a node receives :math:`\mathsf{nf}_2` and :math:`\mathsf{H}_4,` it wil
 
 This is where <em>Zero-Knowledge proofs</em> come to the rescue:
 
-In addition to the steps above, Alice will publish a proof-string :math:`\pi` convincing the nodes that <em>whomever published this transaction knows values</em> :math:`\mathsf{PK}_1,` :math:`\mathsf{sk}_1,` <em>and</em> :math:`r_1` <em>such that</em>
-<ol>
- 	<li style="list-style-type: none;">
+In addition to the steps above, Alice will publish a proof-string :math:`\pi` convincing the nodes that <em>whomever published this transaction knows values</em> :math:`\mathsf{PK}_1,` :math:`\mathsf{sk}_1,` <em>and</em> :math:`r_1` <em>such that </em>
 <ol>
  	<li>The hash of the note :math:`\mathsf{Note}_1=` (:math:`\mathsf{PK}_1,` :math:`r_1)` exists in the set of hashed notes.</li>
  	<li>:math:`\mathsf{sk}_1` is the private key corresponding to :math:`\mathsf{PK}_1` (and thus, whomever knows it is the rightful owner of :math:`\mathsf{Note}_1`).</li>
  	<li>The hash of :math:`r_1` is :math:`\mathsf{nf}_2`, (and thus, if :math:`\mathsf{nf}_2` - that we now know is the nullifier of :math:`\mathsf{Note}_1` - is not currently in the nullifier set, :math:`\mathsf{Note}_1` still hasn't been spent).</li>
 </ol>
-</li>
-</ol>
+&nbsp;
+
 The properties of Zero-Knowledge proofs will ensure no information about :math:`\mathsf{PK}_1,` :math:`\mathsf{sk}_1,` or :math:`r_1` are revealed by :math:`\pi`.
 <h3>The main places above where we cheated or omitted details</h3>
 We emphasize that this has been an oversimplified description, and recommend the <a class="reference external" href="https://github.com/zcash/zips/blob/master/protocol/protocol.pdf">protocol spec</a> for full details.
 
 Here are some of the main things that were overlooked:
 <ol>
- 	<li style="list-style-type: none;">
-<ol class="arabic simple">
  	<li>The hashed notes need to be stored not just as a list, but in a Merkle tree. This plays an important role in making the Zero-Knowledge proofs efficient. Moreover, we need to store a <em>computationally hiding and binding commitment</em> of the note, rather than just its hash.</li>
- 	<li>The nullifier needs to be defined in a slightly more complex way to ensure future privacy of the receiver in relation to the sender.</li>
- 	<li>We did not go into details on how to eliminate the need for a private channel between sender and recipient.</li>
-</ol>
-</li>
+ 	<li style="list-style-type: none;">The nullifier needs to be defined in a slightly more complex way to ensure future privacy of the receiver in relation to the sender.</li>
+ 	<li style="list-style-type: none;">We did not go into details on how to eliminate the need for a private channel between sender and recipient.</li>
 </ol>

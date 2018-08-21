@@ -10,7 +10,7 @@ post_date: 2016-04-15 00:00:00
 ---
 In our <a class="reference external" href="/new-alpha-release-equihash-and-founders-reward/">last blog post</a>, we announced that we have started using Equihash as the proof-of-work for block mining in Zcash (<a class="reference external" href="https://github.com/zcash/zcash/issues/27">#27</a>).
 
-<a class="reference external" href="https://www.internetsociety.org/sites/default/files/blogs-media/equihash-asymmetric-proof-of-work-based-generalized-birthday-problem.pdf">Equihash</a> is a Proof-of-Work algorithm devised by Alex Biryukov and Dmitry Khovratovich. It is based on a computer science and cryptography concept called the Generalized Birthday Problem.
+<a class="reference external" href="http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/equihash-asymmetric-proof-of-work-based-generalized-birthday-problem.pdf" target="_blank">Equihash</a> is a Proof-of-Work algorithm devised by Alex Biryukov and Dmitry Khovratovich. It is based on a computer science and cryptography concept called the Generalized Birthday Problem.
 <div id="why-are-we-using-it" class="section">
 <h2>Why are we using it?</h2>
 Equihash has very efficient verification. This could in the future be important for light clients on constrained devices, or for implementing a Zcash client inside Ethereum (like <a class="reference external" href="http://btcrelay.org/">BTC Relay</a>, but for Zcash).
