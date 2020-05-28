@@ -23,7 +23,7 @@ As we saw in Part V,  Alice will typically want to prove she has a satisfying as
 
 If Alice has a satisfying assignment it means that, defining :math:`L,R,O,P` as above, there exists a polynomial :math:`H` such that :math:`P=H\cdot T`. In particular, for any :math:`s\in\mathbb{F}_p` we have :math:`P(s)=H(s)\cdot T(s)`.
 
-Suppose now that Alice <em>doesn't</em> have a satisfying assignment, but she still constructs :math:`L,R,O,P` as above from some unsatisfying assignment :math:`(c_1,\ldots,c_m)`. Then we are guaranteed that :math:`T` does not divide :math:`P`. This means that for any polynomial :math:`H` of degree at most :math:`d`, :math:`P` and :math:`L,R,O,H` will be different polynomials. Note that :math:`P` and :math:`L,R,O,H` here are both of degree at most :math:`2d`.
+Suppose now that Alice <em>doesn't</em> have a satisfying assignment, but she still constructs :math:`L,R,O,P` as above from some unsatisfying assignment :math:`(c_1,\ldots,c_m)`. Then we are guaranteed that :math:`T` does not divide :math:`P`. This means that for any polynomial :math:`H` of degree at most :math:`d-2`, :math:`P` and :math:`L,R,O,H` will be different polynomials. Note that :math:`P` here is of degree at most :math:`2(d-1)`, :math:`L,R,O` here are of degree at most :math:`d-1` and :math:`H` here is degree at most :math:`d-2`.
 
 Now we can use the famous <a href="https://en.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma">Schwartz-Zippel Lemma</a> that tells us that two different polynomials of degree at most :math:`2d` can agree on at most :math:`2d` points :math:`s\in\mathbb{F}_p`. Thus, if :math:`p` is much larger than :math:`2d` the probability that :math:`P(s)=H(s)\cdot T(s)` for a randomly chosen :math:`s\in\mathbb{F}_p` is very small. 
 
