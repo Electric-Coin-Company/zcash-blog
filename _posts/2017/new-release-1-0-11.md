@@ -1,0 +1,27 @@
+---
+ID: 4911
+post_title: 'New Release: 1.0.11'
+post_name: new-release-1-0-11
+post_date: 2017-08-16 00:00:00
+layout: post
+link: >
+  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-1-0-11/
+published: true
+tags:
+  - bugs
+  - releases
+  - sprout
+categories:
+  - General
+---
+<p>Today we're announcing the release of Zcash 1.0.11, which includes bug fixes and usability improvements.</p>
+<p>Summary of the changes included in this release:</p>
+<ol class="arabic simple">
+<li>We fixed a <tt class="docutils literal">401 Unauthorized</tt> bug encountered when using some JSON-RPC libraries. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2529">#2529</a>)</li>
+<li>We changed <tt class="docutils literal">z_sendmany</tt> to fail with an error if the user sets <tt class="docutils literal">minconf=0</tt> when sending from z-addresses. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2525">#2525</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2526">#2526</a>)</li>
+<li>We extended the <tt class="docutils literal">listunspent</tt> RPC method to specify whether outputs were from a coinbase transaction, to help users identify t-addresses that need to have their contents shielded. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2522">#2522</a>)</li>
+<li>We added a block download progress indicator to the metrics UI. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2484">#2484</a>)</li>
+<li>We removed UPnP support (which was already off by default) for security reasons. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2504">#2504</a>)</li>
+</ol>
+<p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">1.0 User Guide</a> for more information.</p>
+<p>For a more complete list of changes, see our <a class="reference external" href="https://github.com/zcash/zcash/milestone/58?closed=1">1.0.11</a> GitHub milestone. To follow our progress, watch <a class="reference external" href="https://github.com/zcash/zcash/milestones">the GitHub project</a> and <a class="reference external" href="https://forum.z.cash/">join the forum</a>.</p>
