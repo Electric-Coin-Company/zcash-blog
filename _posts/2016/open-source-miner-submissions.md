@@ -5,7 +5,7 @@ post_name: open-source-miner-submissions
 post_date: 2016-10-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/open-source-miner-submissions/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/open-source-miner-submissions/
 published: true
 tags:
   - mining

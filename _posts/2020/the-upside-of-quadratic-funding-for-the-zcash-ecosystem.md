@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-06-03 16:58:57
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-upside-of-quadratic-funding-for-the-zcash-ecosystem/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-upside-of-quadratic-funding-for-the-zcash-ecosystem/
 published: true
 tags:
   - community

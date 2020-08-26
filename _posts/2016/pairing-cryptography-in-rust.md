@@ -5,7 +5,7 @@ post_name: pairing-cryptography-in-rust
 post_date: 2016-07-06 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/pairing-cryptography-in-rust/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/pairing-cryptography-in-rust/
 published: true
 tags:
   - cryptography

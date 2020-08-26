@@ -8,7 +8,7 @@ post_name: >
 post_date: 2017-02-24 18:29:48
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/lessons-from-the-history-of-attacks-on-secure-hash-functions/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/lessons-from-the-history-of-attacks-on-secure-hash-functions/
 published: true
 tags: [ ]
 categories:

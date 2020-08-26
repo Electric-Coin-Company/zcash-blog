@@ -8,7 +8,7 @@ post_name: zda-announcement
 post_date: 2020-05-11 15:44:30
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zda-announcement/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zda-announcement/
 published: true
 tags:
   - community

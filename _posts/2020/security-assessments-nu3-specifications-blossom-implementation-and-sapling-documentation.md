@@ -6,7 +6,7 @@ post_name: >
 post_date: 2020-01-27 21:58:25
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/security-assessments-nu3-specifications-blossom-implementation-and-sapling-documentation/
 published: true
 tags:
   - security audits

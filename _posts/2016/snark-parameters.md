@@ -7,7 +7,7 @@ post_name: snark-parameters
 post_date: 2016-02-29 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/snark-parameters/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/snark-parameters/
 published: true
 tags:
   - cryptography

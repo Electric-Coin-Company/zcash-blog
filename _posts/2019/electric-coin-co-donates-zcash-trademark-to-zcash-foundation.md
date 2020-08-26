@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-11-07 00:05:56
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/electric-coin-co-donates-zcash-trademark-to-zcash-foundation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/electric-coin-co-donates-zcash-trademark-to-zcash-foundation/
 published: true
 tags: [ ]
 categories:

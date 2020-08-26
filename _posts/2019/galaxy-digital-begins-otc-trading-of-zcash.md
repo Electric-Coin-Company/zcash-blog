@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-01-10 11:18:24
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/galaxy-digital-begins-otc-trading-of-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/galaxy-digital-begins-otc-trading-of-zcash/
 published: true
 tags:
   - investment

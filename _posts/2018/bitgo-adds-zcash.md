@@ -5,7 +5,7 @@ post_name: bitgo-adds-zcash
 post_date: 2018-07-25 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/bitgo-adds-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/bitgo-adds-zcash/
 published: true
 tags:
   - community

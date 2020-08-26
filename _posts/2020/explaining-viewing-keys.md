@@ -5,7 +5,7 @@ post_name: explaining-viewing-keys
 post_date: 2020-05-18 19:41:41
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/explaining-viewing-keys/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/explaining-viewing-keys/
 published: true
 tags:
   - features

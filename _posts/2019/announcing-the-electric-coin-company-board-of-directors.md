@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-03-12 12:00:36
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/announcing-the-electric-coin-company-board-of-directors/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/announcing-the-electric-coin-company-board-of-directors/
 published: true
 tags:
   - board members

@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-10-21 19:22:16
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/binance-us-lists-zec-validating-work-and-compliance/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/binance-us-lists-zec-validating-work-and-compliance/
 published: true
 tags: [ ]
 categories:

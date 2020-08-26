@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-10-18 16:43:13
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-wall-street-and-emerging-markets-from-carlson/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-wall-street-and-emerging-markets-from-carlson/
 published: true
 tags:
   - Adoption

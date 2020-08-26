@@ -5,7 +5,7 @@ post_name: zcash-on-bithumb
 post_date: 2017-09-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-on-bithumb/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-on-bithumb/
 published: true
 tags:
   - applications

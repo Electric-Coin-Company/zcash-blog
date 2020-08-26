@@ -5,7 +5,7 @@ post_name: slow-start-and-mining-ecosystem
 post_date: 2016-10-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/slow-start-and-mining-ecosystem/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/slow-start-and-mining-ecosystem/
 published: true
 tags:
   - mining

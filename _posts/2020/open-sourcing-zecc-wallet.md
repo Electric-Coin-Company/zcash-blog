@@ -5,7 +5,7 @@ post_name: open-sourcing-zecc-wallet
 post_date: 2020-04-22 15:16:53
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/open-sourcing-zecc-wallet/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/open-sourcing-zecc-wallet/
 published: true
 tags:
   - developer

@@ -5,7 +5,7 @@ post_name: new-alpha-release-mining-slow-start
 post_date: 2016-06-01 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-alpha-release-mining-slow-start/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-alpha-release-mining-slow-start/
 published: true
 tags:
   - alpha

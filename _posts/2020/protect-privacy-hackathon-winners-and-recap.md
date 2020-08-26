@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-07-18 16:37:33
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/protect-privacy-hackathon-winners-and-recap/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/protect-privacy-hackathon-winners-and-recap/
 published: true
 tags:
   - developer

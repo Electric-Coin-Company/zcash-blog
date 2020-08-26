@@ -5,7 +5,7 @@ post_name: new-release-2-0-7-3
 post_date: 2019-10-02 16:10:20
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-2-0-7-3/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-2-0-7-3/
 published: true
 tags:
   - releases

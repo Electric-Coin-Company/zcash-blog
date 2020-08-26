@@ -5,7 +5,7 @@ post_name: the-earn-zcash-campaign-is-a-success
 post_date: 2019-05-20 21:16:09
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-earn-zcash-campaign-is-a-success/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-earn-zcash-campaign-is-a-success/
 published: true
 tags:
   - ecosystem

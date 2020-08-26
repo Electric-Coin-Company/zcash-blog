@@ -7,7 +7,7 @@ post_name: generating-zcash-parameters
 post_date: 2016-09-25 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/generating-zcash-parameters/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/generating-zcash-parameters/
 published: true
 tags:
   - cryptography

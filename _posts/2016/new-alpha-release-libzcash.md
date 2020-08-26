@@ -5,7 +5,7 @@ post_name: new-alpha-release-libzcash
 post_date: 2016-05-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-alpha-release-libzcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-alpha-release-libzcash/
 published: true
 tags:
   - alpha

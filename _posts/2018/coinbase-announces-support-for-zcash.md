@@ -5,7 +5,7 @@ post_name: coinbase-announces-support-for-zcash
 post_date: 2018-11-29 14:30:16
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/coinbase-announces-support-for-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/coinbase-announces-support-for-zcash/
 published: true
 tags:
   - ecosystem

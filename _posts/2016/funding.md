@@ -5,7 +5,7 @@ post_name: funding
 post_date: 2016-02-01 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/funding/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/funding/
 published: true
 tags:
   - Foundation

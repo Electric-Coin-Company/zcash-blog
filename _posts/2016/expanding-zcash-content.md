@@ -5,7 +5,7 @@ post_name: expanding-zcash-content
 post_date: 2016-09-09 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/expanding-zcash-content/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/expanding-zcash-content/
 published: true
 tags:
   - translations

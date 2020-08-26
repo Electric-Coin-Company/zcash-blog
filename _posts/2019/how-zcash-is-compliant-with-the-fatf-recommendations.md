@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-09-24 16:28:49
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/how-zcash-is-compliant-with-the-fatf-recommendations/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/how-zcash-is-compliant-with-the-fatf-recommendations/
 published: true
 tags:
   - Regulation

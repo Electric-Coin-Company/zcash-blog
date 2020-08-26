@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-09-10 13:05:42
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/halo-recursive-proof-composition-without-a-trusted-setup/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/halo-recursive-proof-composition-without-a-trusted-setup/
 published: true
 tags:
   - cryptography

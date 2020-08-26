@@ -5,7 +5,7 @@ post_name: audit-results
 post_date: 2016-10-27 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/audit-results/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/audit-results/
 published: true
 tags:
   - cryptography

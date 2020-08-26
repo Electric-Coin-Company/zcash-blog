@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-03-22 15:46:01
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/turnstile-enforcement-against-counterfeiting/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/turnstile-enforcement-against-counterfeiting/
 published: true
 tags:
   - counterfeiting

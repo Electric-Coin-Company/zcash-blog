@@ -5,7 +5,7 @@ post_name: miner-challenge-deadline
 post_date: 2016-10-24 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/miner-challenge-deadline/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/miner-challenge-deadline/
 published: true
 tags:
   - mining

@@ -8,7 +8,7 @@ post_name: jpm-quorum-integration
 post_date: 2017-10-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/jpm-quorum-integration/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/jpm-quorum-integration/
 published: true
 tags:
   - applications

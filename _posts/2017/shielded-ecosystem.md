@@ -5,7 +5,7 @@ post_name: shielded-ecosystem
 post_date: 2017-02-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/shielded-ecosystem/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/shielded-ecosystem/
 published: true
 tags:
   - explainers

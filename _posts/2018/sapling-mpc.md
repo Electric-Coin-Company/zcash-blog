@@ -5,7 +5,7 @@ post_name: sapling-mpc
 post_date: 2018-05-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sapling-mpc/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sapling-mpc/
 published: true
 tags:
   - Parameter Generation

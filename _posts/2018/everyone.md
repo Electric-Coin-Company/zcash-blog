@@ -5,7 +5,7 @@ post_name: everyone
 post_date: 2018-10-02 00:00:45
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/everyone/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/everyone/
 published: true
 tags:
   - marketing

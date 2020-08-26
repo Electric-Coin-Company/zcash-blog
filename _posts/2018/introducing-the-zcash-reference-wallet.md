@@ -5,7 +5,7 @@ post_name: introducing-the-zcash-reference-wallet
 post_date: 2018-10-31 12:20:35
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/introducing-the-zcash-reference-wallet/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/introducing-the-zcash-reference-wallet/
 published: true
 tags:
   - Wallet

@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-03-21 14:14:42
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-is-compatible-with-aml-cft-regulation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-is-compatible-with-aml-cft-regulation/
 published: true
 tags:
   - Regulation

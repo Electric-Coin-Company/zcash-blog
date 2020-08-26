@@ -5,7 +5,7 @@ post_name: perspectives-on-sapling
 post_date: 2018-08-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-sapling/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-sapling/
 published: true
 tags:
   - explainers

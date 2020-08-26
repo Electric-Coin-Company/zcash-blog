@@ -5,7 +5,7 @@ post_name: release-cycle-and-lifetimes
 post_date: 2017-05-01 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/release-cycle-and-lifetimes/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/release-cycle-and-lifetimes/
 published: true
 tags:
   - consensus

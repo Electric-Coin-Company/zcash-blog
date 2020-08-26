@@ -7,7 +7,7 @@ post_name: fixing-zcash-vulns
 post_date: 2016-04-26 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/fixing-zcash-vulns/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/fixing-zcash-vulns/
 published: true
 tags:
   - cryptography

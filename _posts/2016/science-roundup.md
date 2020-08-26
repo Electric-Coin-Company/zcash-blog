@@ -5,7 +5,7 @@ post_name: science-roundup
 post_date: 2016-03-18 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/science-roundup/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/science-roundup/
 published: true
 tags:
   - bitcoin

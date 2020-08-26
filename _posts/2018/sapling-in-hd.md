@@ -5,7 +5,7 @@ post_name: sapling-in-hd
 post_date: 2018-10-26 13:59:03
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sapling-in-hd/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sapling-in-hd/
 published: true
 tags:
   - bitcoin

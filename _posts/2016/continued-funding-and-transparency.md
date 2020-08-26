@@ -5,7 +5,7 @@ post_name: continued-funding-and-transparency
 post_date: 2016-09-23 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/continued-funding-and-transparency/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/continued-funding-and-transparency/
 published: true
 tags:
   - community

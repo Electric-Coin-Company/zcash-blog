@@ -7,7 +7,7 @@ post_name: shielded-pia
 post_date: 2018-02-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/shielded-pia/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/shielded-pia/
 published: true
 tags:
   - ecosystem

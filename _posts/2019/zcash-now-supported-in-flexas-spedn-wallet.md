@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-08-01 14:04:17
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-now-supported-in-flexas-spedn-wallet/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-now-supported-in-flexas-spedn-wallet/
 published: true
 tags:
   - Adoption

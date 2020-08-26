@@ -5,7 +5,7 @@ post_name: the-near-future-of-zcash
 post_date: 2017-02-21 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-near-future-of-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-near-future-of-zcash/
 published: true
 tags:
   - releases

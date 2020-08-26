@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-08-23 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-privacy-from-peter-van-valkenburgh-and-jill-carlson/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-privacy-from-peter-van-valkenburgh-and-jill-carlson/
 published: true
 tags:
   - Perspectives

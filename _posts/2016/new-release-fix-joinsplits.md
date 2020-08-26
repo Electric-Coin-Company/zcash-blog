@@ -5,7 +5,7 @@ post_name: new-release-fix-joinsplits
 post_date: 2016-11-07 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-fix-joinsplits/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-fix-joinsplits/
 published: true
 tags:
   - bugs

@@ -5,7 +5,7 @@ post_name: new-release-2-1-2
 post_date: 2020-04-23 17:30:43
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-2-1-2/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-2-1-2/
 published: true
 tags:
   - releases

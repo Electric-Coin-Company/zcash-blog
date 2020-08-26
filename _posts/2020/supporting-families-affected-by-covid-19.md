@@ -5,7 +5,7 @@ post_name: supporting-families-affected-by-covid-19
 post_date: 2020-03-23 14:13:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/supporting-families-affected-by-covid-19/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/supporting-families-affected-by-covid-19/
 published: true
 tags: [ ]
 categories:

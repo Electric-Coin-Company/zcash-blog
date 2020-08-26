@@ -5,7 +5,7 @@ post_name: zcash-sprout-launch
 post_date: 2016-10-28 23:49:37
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-sprout-launch/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-sprout-launch/
 published: true
 tags: [ ]
 categories:

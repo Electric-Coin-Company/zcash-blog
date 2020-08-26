@@ -7,7 +7,7 @@ post_name: new-research-on-shielded-ecosystem
 post_date: 2017-12-04 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-research-on-shielded-ecosystem/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-research-on-shielded-ecosystem/
 published: true
 tags:
   - privacy

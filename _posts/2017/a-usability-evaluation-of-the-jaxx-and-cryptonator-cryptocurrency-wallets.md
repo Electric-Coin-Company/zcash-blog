@@ -8,7 +8,7 @@ post_name: >
 post_date: 2017-08-21 18:00:06
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/a-usability-evaluation-of-the-jaxx-and-cryptonator-cryptocurrency-wallets/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/a-usability-evaluation-of-the-jaxx-and-cryptonator-cryptocurrency-wallets/
 published: true
 tags: [ ]
 categories:

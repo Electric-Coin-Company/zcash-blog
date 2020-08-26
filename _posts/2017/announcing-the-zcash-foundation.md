@@ -5,7 +5,7 @@ post_name: announcing-the-zcash-foundation
 post_date: 2017-03-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/announcing-the-zcash-foundation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/announcing-the-zcash-foundation/
 published: true
 tags:
   - Foundation

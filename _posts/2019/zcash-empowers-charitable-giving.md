@@ -5,7 +5,7 @@ post_name: zcash-empowers-charitable-giving
 post_date: 2019-04-16 15:30:40
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-empowers-charitable-giving/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-empowers-charitable-giving/
 published: true
 tags:
   - donate

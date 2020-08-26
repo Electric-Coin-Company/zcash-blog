@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-02-25 14:33:54
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/people-behind-zcash-technology-eirik-ogilvie-wigley-engineer/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/people-behind-zcash-technology-eirik-ogilvie-wigley-engineer/
 published: true
 tags:
   - team

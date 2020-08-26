@@ -5,7 +5,7 @@ post_name: zcash-invests-in-starkware
 post_date: 2018-05-10 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-invests-in-starkware/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-invests-in-starkware/
 published: true
 tags:
   - community

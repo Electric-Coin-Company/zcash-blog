@@ -5,7 +5,7 @@ post_name: zcash-evolution
 post_date: 2016-10-18 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-evolution/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-evolution/
 published: true
 tags:
   - launch

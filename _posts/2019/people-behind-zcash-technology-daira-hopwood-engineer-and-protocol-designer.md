@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-01-22 11:00:24
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/people-behind-zcash-technology-daira-hopwood-engineer-and-protocol-designer/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/people-behind-zcash-technology-daira-hopwood-engineer-and-protocol-designer/
 published: true
 tags:
   - team

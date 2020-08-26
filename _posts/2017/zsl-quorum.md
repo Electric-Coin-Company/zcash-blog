@@ -5,7 +5,7 @@ post_name: zsl-quorum
 post_date: 2017-05-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zsl-quorum/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zsl-quorum/
 published: true
 tags:
   - applications

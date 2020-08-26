@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-08-02 14:57:37
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/electric-coin-company-statement-on-sustainability/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/electric-coin-company-statement-on-sustainability/
 published: true
 tags:
   - funding

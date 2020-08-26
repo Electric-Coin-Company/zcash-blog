@@ -5,7 +5,7 @@ post_name: the-zcash-reference-wallet-is-here
 post_date: 2019-04-05 15:13:32
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-zcash-reference-wallet-is-here/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-zcash-reference-wallet-is-here/
 published: true
 tags:
   - Sapling

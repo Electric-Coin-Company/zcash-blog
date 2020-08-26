@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-01-04 12:00:33
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/quarterly-update-perspective-on-the-market-evolution/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/quarterly-update-perspective-on-the-market-evolution/
 published: true
 tags:
   - ecosystem

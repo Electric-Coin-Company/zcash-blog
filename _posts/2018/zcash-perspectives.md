@@ -5,7 +5,7 @@ post_name: zcash-perspectives
 post_date: 2018-08-09 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-perspectives/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-perspectives/
 published: true
 tags:
   - community

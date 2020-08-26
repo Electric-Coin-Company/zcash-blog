@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-03-23 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-team-grows-with-new-hires-in-q1-2018/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-team-grows-with-new-hires-in-q1-2018/
 published: true
 tags:
   - hiring

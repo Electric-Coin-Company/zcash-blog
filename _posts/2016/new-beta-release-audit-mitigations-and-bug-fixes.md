@@ -6,7 +6,7 @@ post_name: >
 post_date: 2016-10-04 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-beta-release-audit-mitigations-and-bug-fixes/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-beta-release-audit-mitigations-and-bug-fixes/
 published: true
 tags:
   - beta

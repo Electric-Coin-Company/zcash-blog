@@ -5,7 +5,7 @@ post_name: zcash-company-proposed-roadmap
 post_date: 2018-06-26 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-company-proposed-roadmap/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-company-proposed-roadmap/
 published: true
 tags:
   - roadmap

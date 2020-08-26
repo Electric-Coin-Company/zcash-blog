@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-06-11 23:34:49
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/7-things-we-learned-building-the-shielded-first-ecc-wallet/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/7-things-we-learned-building-the-shielded-first-ecc-wallet/
 published: true
 tags:
   - developer

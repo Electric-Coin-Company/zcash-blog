@@ -5,7 +5,7 @@ post_name: r3-blockchain-report
 post_date: 2017-03-08 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/r3-blockchain-report/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/r3-blockchain-report/
 published: true
 tags:
   - privacy

@@ -5,7 +5,7 @@ post_name: 2018-zcash-security-audit-details
 post_date: 2018-03-27 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/2018-zcash-security-audit-details/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/2018-zcash-security-audit-details/
 published: true
 tags:
   - peer review

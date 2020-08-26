@@ -6,7 +6,7 @@ post_name: >
 post_date: 2016-08-25 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-alpha-release-solidifying-the-consensus-protocol/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-alpha-release-solidifying-the-consensus-protocol/
 published: true
 tags:
   - alpha

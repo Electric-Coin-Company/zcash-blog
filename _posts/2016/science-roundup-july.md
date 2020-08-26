@@ -5,7 +5,7 @@ post_name: science-roundup-july
 post_date: 2016-07-27 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/science-roundup-july/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/science-roundup-july/
 published: true
 tags:
   - BOLT

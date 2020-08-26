@@ -5,7 +5,7 @@ post_name: jobs
 post_date: 2018-09-22 10:32:36
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/jobs/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/jobs/
 published: true
 tags: [ ]
 categories: [ ]

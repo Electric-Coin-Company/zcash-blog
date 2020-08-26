@@ -5,7 +5,7 @@ post_name: future-friendly-fork
 post_date: 2017-01-11 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/future-friendly-fork/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/future-friendly-fork/
 published: true
 tags:
   - forks

@@ -5,7 +5,7 @@ post_name: sprout-roadmap
 post_date: 2016-05-09 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sprout-roadmap/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sprout-roadmap/
 published: true
 tags:
   - launch

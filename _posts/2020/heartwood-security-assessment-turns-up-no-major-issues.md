@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-06-17 21:19:01
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/heartwood-security-assessment-turns-up-no-major-issues/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/heartwood-security-assessment-turns-up-no-major-issues/
 published: true
 tags:
   - security

@@ -5,7 +5,7 @@ post_name: ecc-all-in-on-zec
 post_date: 2019-07-15 17:44:53
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-all-in-on-zec/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-all-in-on-zec/
 published: true
 tags:
   - Adoption

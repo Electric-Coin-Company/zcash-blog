@@ -5,7 +5,7 @@ post_name: encrypted-memo-field
 post_date: 2016-12-05 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/encrypted-memo-field/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/encrypted-memo-field/
 published: true
 tags:
   - applications

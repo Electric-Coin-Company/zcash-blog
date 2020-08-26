@@ -5,7 +5,7 @@ post_name: supporting-coin-center
 post_date: 2016-09-07 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/supporting-coin-center/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/supporting-coin-center/
 published: true
 tags:
   - Coin Center

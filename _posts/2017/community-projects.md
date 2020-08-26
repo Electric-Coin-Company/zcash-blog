@@ -7,7 +7,7 @@ post_name: community-projects
 post_date: 2017-09-01 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/community-projects/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/community-projects/
 published: true
 tags:
   - applications

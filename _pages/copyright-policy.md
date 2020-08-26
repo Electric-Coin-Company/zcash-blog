@@ -5,7 +5,7 @@ post_name: copyright-policy
 post_date: 2018-09-22 10:27:42
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/copyright-policy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/copyright-policy/
 published: true
 tags: [ ]
 categories: [ ]

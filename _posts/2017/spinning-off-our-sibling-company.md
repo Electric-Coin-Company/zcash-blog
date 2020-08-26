@@ -5,7 +5,7 @@ post_name: spinning-off-our-sibling-company
 post_date: 2017-03-20 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/spinning-off-our-sibling-company/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/spinning-off-our-sibling-company/
 published: true
 tags:
   - team

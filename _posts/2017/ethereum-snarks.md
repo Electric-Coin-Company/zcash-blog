@@ -5,7 +5,7 @@ post_name: ethereum-snarks
 post_date: 2017-09-20 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ethereum-snarks/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ethereum-snarks/
 published: true
 tags:
   - ecosystem

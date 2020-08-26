@@ -7,7 +7,7 @@ post_name: announcing-miner-contest
 post_date: 2016-09-21 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/announcing-miner-contest/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/announcing-miner-contest/
 published: true
 tags:
   - mining

@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-11-16 14:05:05
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/reinforcing-the-security-of-the-sapling-mpc/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/reinforcing-the-security-of-the-sapling-mpc/
 published: true
 tags:
   - Sapling

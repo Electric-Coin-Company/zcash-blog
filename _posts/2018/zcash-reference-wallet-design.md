@@ -5,7 +5,7 @@ post_name: zcash-reference-wallet-design
 post_date: 2018-11-26 10:33:34
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-reference-wallet-design/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-reference-wallet-design/
 published: true
 tags:
   - Wallet

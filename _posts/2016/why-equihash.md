@@ -5,7 +5,7 @@ post_name: why-equihash
 post_date: 2016-04-15 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/why-equihash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/why-equihash/
 published: true
 tags:
   - Equihash

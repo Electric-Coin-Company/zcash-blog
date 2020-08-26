@@ -5,7 +5,7 @@ post_name: whats-new-in-sapling
 post_date: 2018-07-13 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/whats-new-in-sapling/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/whats-new-in-sapling/
 published: true
 tags:
   - releases

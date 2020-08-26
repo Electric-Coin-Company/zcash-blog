@@ -5,7 +5,7 @@ post_name: project-alchemy
 post_date: 2016-09-19 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/project-alchemy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/project-alchemy/
 published: true
 tags:
   - Ethereum

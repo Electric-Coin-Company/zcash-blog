@@ -5,7 +5,7 @@ post_name: new-release-3-0-0
 post_date: 2020-05-27 22:03:49
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-3-0-0/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-3-0-0/
 published: true
 tags:
   - heartwood

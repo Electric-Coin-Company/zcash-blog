@@ -5,7 +5,7 @@ post_name: global-growth
 post_date: 2017-06-21 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/global-growth/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/global-growth/
 published: true
 tags:
   - applications

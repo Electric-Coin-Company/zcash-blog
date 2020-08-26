@@ -5,7 +5,7 @@ post_name: introducing-heartwood
 post_date: 2020-03-25 16:03:36
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/introducing-heartwood/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/introducing-heartwood/
 published: true
 tags:
   - network upgrade

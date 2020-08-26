@@ -5,7 +5,7 @@ post_name: internet-money
 post_date: 2017-04-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/internet-money/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/internet-money/
 published: true
 tags:
   - applications

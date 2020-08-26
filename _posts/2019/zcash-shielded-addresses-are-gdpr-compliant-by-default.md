@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-02-01 12:00:29
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-shielded-addresses-are-gdpr-compliant-by-default/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-shielded-addresses-are-gdpr-compliant-by-default/
 published: true
 tags:
   - Regulation

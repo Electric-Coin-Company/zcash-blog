@@ -5,7 +5,7 @@ post_name: new-release-candidate-less-than-one-week
 post_date: 2016-10-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-candidate-less-than-one-week/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-candidate-less-than-one-week/
 published: true
 tags:
   - deterministic builds

@@ -5,7 +5,7 @@ post_name: the-zcash-network-upgrade-pipeline
 post_date: 2018-12-03 13:50:50
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-zcash-network-upgrade-pipeline/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-zcash-network-upgrade-pipeline/
 published: true
 tags:
   - network upgrade

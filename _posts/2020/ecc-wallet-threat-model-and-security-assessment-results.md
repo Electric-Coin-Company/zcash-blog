@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-06-18 22:28:51
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-wallet-threat-model-and-security-assessment-results/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-wallet-threat-model-and-security-assessment-results/
 published: true
 tags:
   - security

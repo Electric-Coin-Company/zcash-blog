@@ -5,7 +5,7 @@ post_name: zcash-invests-in-agoric
 post_date: 2018-05-21 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-invests-in-agoric/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-invests-in-agoric/
 published: true
 tags:
   - ecosystem

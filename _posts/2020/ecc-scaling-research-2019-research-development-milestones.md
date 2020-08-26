@@ -6,7 +6,7 @@ post_name: >
 post_date: 2020-03-02 14:47:57
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-scaling-research-2019-research-development-milestones/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-scaling-research-2019-research-development-milestones/
 published: true
 tags:
   - Halo

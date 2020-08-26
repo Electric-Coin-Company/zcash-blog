@@ -5,7 +5,7 @@ post_name: sprout-to-sapling-migration-tool
 post_date: 2019-05-21 11:07:57
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sprout-to-sapling-migration-tool/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sprout-to-sapling-migration-tool/
 published: true
 tags:
   - explainers

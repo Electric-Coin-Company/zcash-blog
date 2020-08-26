@@ -5,7 +5,7 @@ post_name: the-design-of-the-ceremony
 post_date: 2016-10-26 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-design-of-the-ceremony/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-design-of-the-ceremony/
 published: true
 tags:
   - launch

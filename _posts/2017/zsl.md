@@ -5,7 +5,7 @@ post_name: zsl
 post_date: 2017-03-23 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zsl/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zsl/
 published: true
 tags:
   - enterprise

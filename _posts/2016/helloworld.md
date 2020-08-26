@@ -5,7 +5,7 @@ post_name: helloworld
 post_date: 2016-01-20 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/helloworld/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/helloworld/
 published: true
 tags: [ ]
 categories:

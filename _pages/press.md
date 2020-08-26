@@ -5,7 +5,7 @@ post_name: press
 post_date: 2018-09-22 10:26:09
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/press/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/press/
 published: true
 tags: [ ]
 categories: [ ]

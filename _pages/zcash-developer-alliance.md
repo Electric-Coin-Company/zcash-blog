@@ -5,7 +5,7 @@ post_name: zcash-developer-alliance
 post_date: 2020-05-11 15:31:31
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/zcash-developer-alliance/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/zcash-developer-alliance/
 published: true
 tags: [ ]
 categories: [ ]

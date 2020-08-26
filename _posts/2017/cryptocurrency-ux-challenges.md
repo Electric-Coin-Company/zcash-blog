@@ -5,7 +5,7 @@ post_name: cryptocurrency-ux-challenges
 post_date: 2017-08-21 17:30:44
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/cryptocurrency-ux-challenges/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/cryptocurrency-ux-challenges/
 published: true
 tags: [ ]
 categories:

@@ -9,7 +9,7 @@ post_name: >
 post_date: 2020-07-29 15:27:44
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-partners-with-industry-leaders-and-community-leaders-to-launch-crypto-in-context-program/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-partners-with-industry-leaders-and-community-leaders-to-launch-crypto-in-context-program/
 published: true
 tags:
   - community

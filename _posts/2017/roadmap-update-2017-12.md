@@ -5,7 +5,7 @@ post_name: roadmap-update-2017-12
 post_date: 2017-12-08 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/roadmap-update-2017-12/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/roadmap-update-2017-12/
 published: true
 tags:
   - consensus

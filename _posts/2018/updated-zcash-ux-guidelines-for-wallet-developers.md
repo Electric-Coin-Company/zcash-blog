@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-04-10 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/updated-zcash-ux-guidelines-for-wallet-developers/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/updated-zcash-ux-guidelines-for-wallet-developers/
 published: true
 tags:
   - UX

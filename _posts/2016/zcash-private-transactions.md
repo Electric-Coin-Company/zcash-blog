@@ -7,7 +7,7 @@ post_name: zcash-private-transactions
 post_date: 2016-11-29 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-private-transactions/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-private-transactions/
 published: true
 tags:
   - explainers

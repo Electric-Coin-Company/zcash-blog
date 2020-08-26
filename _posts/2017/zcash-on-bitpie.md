@@ -5,7 +5,7 @@ post_name: zcash-on-bitpie
 post_date: 2017-09-12 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-on-bitpie/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-on-bitpie/
 published: true
 tags:
   - applications

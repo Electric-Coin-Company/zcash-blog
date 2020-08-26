@@ -5,7 +5,7 @@ post_name: sitemap
 post_date: 2018-09-25 11:54:52
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/sitemap/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/sitemap/
 published: true
 tags: [ ]
 categories: [ ]

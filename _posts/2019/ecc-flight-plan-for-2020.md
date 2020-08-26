@@ -5,7 +5,7 @@ post_name: ecc-flight-plan-for-2020
 post_date: 2019-11-22 00:03:23
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-flight-plan-for-2020/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-flight-plan-for-2020/
 published: true
 tags:
   - Dev Fund

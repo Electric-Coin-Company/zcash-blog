@@ -5,7 +5,7 @@ post_name: the-zcash-equihash-analysis
 post_date: 2016-11-18 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-zcash-equihash-analysis/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-zcash-equihash-analysis/
 published: true
 tags:
   - Equihash

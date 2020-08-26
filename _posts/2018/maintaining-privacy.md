@@ -5,7 +5,7 @@ post_name: maintaining-privacy
 post_date: 2018-05-08 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/maintaining-privacy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/maintaining-privacy/
 published: true
 tags:
   - privacy

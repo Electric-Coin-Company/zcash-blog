@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-01-15 21:00:45
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-releases-resources-for-building-mobile-shielded-zcash-wallets/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-releases-resources-for-building-mobile-shielded-zcash-wallets/
 published: true
 tags:
   - developer

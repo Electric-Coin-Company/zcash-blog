@@ -5,7 +5,7 @@ post_name: transaction-linkability
 post_date: 2017-01-25 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/transaction-linkability/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/transaction-linkability/
 published: true
 tags:
   - explainers

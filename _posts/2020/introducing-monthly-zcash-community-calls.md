@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-01-14 23:47:50
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/introducing-monthly-zcash-community-calls/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/introducing-monthly-zcash-community-calls/
 published: true
 tags:
   - community

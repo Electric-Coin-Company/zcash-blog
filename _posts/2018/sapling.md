@@ -5,7 +5,7 @@ post_name: sapling
 post_date: 2018-08-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sapling/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sapling/
 published: true
 tags:
   - consensus

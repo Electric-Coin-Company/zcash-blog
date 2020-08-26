@@ -5,7 +5,7 @@ post_name: shielded-address-contexts
 post_date: 2017-04-19 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/shielded-address-contexts/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/shielded-address-contexts/
 published: true
 tags:
   - explainers

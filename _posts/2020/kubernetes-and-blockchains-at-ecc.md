@@ -5,7 +5,7 @@ post_name: kubernetes-and-blockchains-at-ecc
 post_date: 2020-06-19 17:53:17
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/kubernetes-and-blockchains-at-ecc/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/kubernetes-and-blockchains-at-ecc/
 published: true
 tags:
   - developer

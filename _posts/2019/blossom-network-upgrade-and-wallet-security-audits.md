@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-07-19 15:56:46
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/blossom-network-upgrade-and-wallet-security-audits/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/blossom-network-upgrade-and-wallet-security-audits/
 published: true
 tags:
   - audit

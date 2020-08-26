@@ -5,7 +5,7 @@ post_name: mine-to-shielded-coinbase
 post_date: 2020-04-21 16:03:16
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/mine-to-shielded-coinbase/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/mine-to-shielded-coinbase/
 published: true
 tags:
   - heartwood

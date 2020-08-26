@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-09-29 13:29:42
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-regulation-from-van-valkenburgh/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-regulation-from-van-valkenburgh/
 published: true
 tags:
   - Perspectives

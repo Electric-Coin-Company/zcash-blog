@@ -5,7 +5,7 @@ post_name: 2018-security-audit-results-in-detail
 post_date: 2019-01-31 12:00:24
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/2018-security-audit-results-in-detail/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/2018-security-audit-results-in-detail/
 published: true
 tags:
   - audit

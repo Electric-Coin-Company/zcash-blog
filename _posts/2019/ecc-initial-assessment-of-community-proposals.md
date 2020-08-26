@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-08-26 18:29:21
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-initial-assessment-of-community-proposals/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-initial-assessment-of-community-proposals/
 published: true
 tags:
   - community

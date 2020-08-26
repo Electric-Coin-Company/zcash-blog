@@ -5,7 +5,7 @@ post_name: zcash-in-brazil-and-south-africa
 post_date: 2017-04-18 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-in-brazil-and-south-africa/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-in-brazil-and-south-africa/
 published: true
 tags:
   - applications

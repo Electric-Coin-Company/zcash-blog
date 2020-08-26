@@ -5,7 +5,7 @@ post_name: celebrating-canopy-and-community
 post_date: 2020-08-25 15:55:01
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/celebrating-canopy-and-community/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/celebrating-canopy-and-community/
 published: true
 tags:
   - community

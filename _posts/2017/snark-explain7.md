@@ -5,7 +5,7 @@ post_name: snark-explain7
 post_date: 2017-06-07 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/snark-explain7/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/snark-explain7/
 published: true
 tags:
   - cryptography

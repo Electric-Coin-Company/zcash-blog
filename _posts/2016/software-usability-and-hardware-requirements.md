@@ -6,7 +6,7 @@ post_name: >
 post_date: 2016-10-19 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/software-usability-and-hardware-requirements/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/software-usability-and-hardware-requirements/
 published: true
 tags:
   - launch

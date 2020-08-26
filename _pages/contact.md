@@ -5,7 +5,7 @@ post_name: contact
 post_date: 2018-09-22 10:30:05
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/contact/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/contact/
 published: true
 tags: [ ]
 categories: [ ]

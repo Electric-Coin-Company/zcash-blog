@@ -5,7 +5,7 @@ post_name: completion-of-the-sapling-mpc
 post_date: 2018-08-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/completion-of-the-sapling-mpc/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/completion-of-the-sapling-mpc/
 published: true
 tags:
   - Parameter Generation

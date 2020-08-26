@@ -5,7 +5,7 @@ post_name: sapling-addresses-turnstile-migration
 post_date: 2018-09-11 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sapling-addresses-turnstile-migration/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sapling-addresses-turnstile-migration/
 published: true
 tags:
   - explainers

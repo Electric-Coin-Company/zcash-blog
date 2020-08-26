@@ -5,7 +5,7 @@ post_name: hello-circle
 post_date: 2018-05-01 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/hello-circle/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/hello-circle/
 published: true
 tags:
   - community

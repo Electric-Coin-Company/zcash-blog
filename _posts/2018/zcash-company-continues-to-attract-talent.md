@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-11-02 12:17:29
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-company-continues-to-attract-talent/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-company-continues-to-attract-talent/
 published: true
 tags:
   - team

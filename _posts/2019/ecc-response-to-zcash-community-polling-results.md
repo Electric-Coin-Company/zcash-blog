@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-12-05 23:06:40
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-response-to-zcash-community-polling-results/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-response-to-zcash-community-polling-results/
 published: true
 tags:
   - community

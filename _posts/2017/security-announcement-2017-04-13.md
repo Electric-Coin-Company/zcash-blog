@@ -5,7 +5,7 @@ post_name: security-announcement-2017-04-13
 post_date: 2017-04-13 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/security-announcement-2017-04-13/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/security-announcement-2017-04-13/
 published: true
 tags:
   - bugs

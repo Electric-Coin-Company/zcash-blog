@@ -5,7 +5,7 @@ post_name: the-state-of-zcash-adoption
 post_date: 2020-05-04 23:15:45
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-state-of-zcash-adoption/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-state-of-zcash-adoption/
 published: true
 tags:
   - Adoption

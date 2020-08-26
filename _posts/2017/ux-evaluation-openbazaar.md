@@ -5,7 +5,7 @@ post_name: ux-evaluation-openbazaar
 post_date: 2017-11-13 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ux-evaluation-openbazaar/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ux-evaluation-openbazaar/
 published: true
 tags:
   - applications

@@ -5,7 +5,7 @@ post_name: privacy-policy
 post_date: 2018-08-24 10:03:07
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/privacy-policy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/privacy-policy/
 published: true
 tags: [ ]
 categories: [ ]

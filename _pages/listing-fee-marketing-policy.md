@@ -5,7 +5,7 @@ post_name: listing-fee-marketing-policy
 post_date: 2019-01-21 14:46:08
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/listing-fee-marketing-policy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/listing-fee-marketing-policy/
 published: true
 tags: [ ]
 categories: [ ]

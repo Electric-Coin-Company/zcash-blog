@@ -5,7 +5,7 @@ post_name: zcash-to-10-billion
 post_date: 2019-07-23 22:49:19
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-to-10-billion/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-to-10-billion/
 published: true
 tags: [ ]
 categories:

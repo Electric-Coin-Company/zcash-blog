@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-01-09 22:15:25
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/manian-joins-electric-coin-co-tech-advisory-board/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/manian-joins-electric-coin-co-tech-advisory-board/
 published: true
 tags:
   - board

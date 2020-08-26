@@ -5,7 +5,7 @@ post_name: hiring
 post_date: 2016-05-25 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/hiring/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/hiring/
 published: true
 tags:
   - hiring

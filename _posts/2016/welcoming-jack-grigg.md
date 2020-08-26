@@ -5,7 +5,7 @@ post_name: welcoming-jack-grigg
 post_date: 2016-02-09 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/welcoming-jack-grigg/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/welcoming-jack-grigg/
 published: true
 tags:
   - team

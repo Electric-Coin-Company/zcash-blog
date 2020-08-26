@@ -6,7 +6,7 @@ post_name: >
 post_date: 2017-07-26 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/cultivating-sapling-new-crypto-foundations/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/cultivating-sapling-new-crypto-foundations/
 published: true
 tags:
   - protocol

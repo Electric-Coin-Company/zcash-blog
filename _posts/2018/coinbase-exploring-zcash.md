@@ -5,7 +5,7 @@ post_name: coinbase-exploring-zcash
 post_date: 2018-07-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/coinbase-exploring-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/coinbase-exploring-zcash/
 published: true
 tags:
   - ecosystem

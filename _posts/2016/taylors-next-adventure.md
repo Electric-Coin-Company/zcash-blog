@@ -5,7 +5,7 @@ post_name: taylors-next-adventure
 post_date: 2016-08-26 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/taylors-next-adventure/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/taylors-next-adventure/
 published: true
 tags:
   - team

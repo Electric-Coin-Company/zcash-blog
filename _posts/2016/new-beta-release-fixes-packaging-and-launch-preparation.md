@@ -6,7 +6,7 @@ post_name: >
 post_date: 2016-10-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-beta-release-fixes-packaging-and-launch-preparation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-beta-release-fixes-packaging-and-launch-preparation/
 published: true
 tags:
   - beta

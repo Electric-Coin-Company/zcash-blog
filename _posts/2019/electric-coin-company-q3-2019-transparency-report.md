@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-08-29 08:52:59
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/electric-coin-company-q3-2019-transparency-report/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/electric-coin-company-q3-2019-transparency-report/
 published: true
 tags:
   - "Founders' Reward"

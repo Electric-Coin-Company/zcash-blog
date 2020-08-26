@@ -5,7 +5,7 @@ post_name: auditing-zcash
 post_date: 2016-08-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/auditing-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/auditing-zcash/
 published: true
 tags:
   - cryptography

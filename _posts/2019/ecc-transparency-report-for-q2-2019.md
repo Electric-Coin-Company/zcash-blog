@@ -5,7 +5,7 @@ post_name: ecc-transparency-report-for-q2-2019
 post_date: 2019-12-13 19:35:30
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-transparency-report-for-q2-2019/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-transparency-report-for-q2-2019/
 published: true
 tags:
   - Dev Fund

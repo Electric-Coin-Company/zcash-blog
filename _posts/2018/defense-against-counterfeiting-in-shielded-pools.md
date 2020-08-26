@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-11-13 22:02:51
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/defense-against-counterfeiting-in-shielded-pools/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/defense-against-counterfeiting-in-shielded-pools/
 published: true
 tags:
   - Policies

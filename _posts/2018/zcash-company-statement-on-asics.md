@@ -5,7 +5,7 @@ post_name: zcash-company-statement-on-asics
 post_date: 2018-05-18 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-company-statement-on-asics/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-company-statement-on-asics/
 published: true
 tags:
   - ASICs

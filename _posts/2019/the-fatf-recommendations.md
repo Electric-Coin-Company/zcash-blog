@@ -5,7 +5,7 @@ post_name: the-fatf-recommendations
 post_date: 2019-09-19 14:01:59
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-fatf-recommendations/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-fatf-recommendations/
 published: true
 tags:
   - Regulation

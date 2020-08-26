@@ -5,7 +5,7 @@ post_name: trademark-policy
 post_date: 2018-09-22 12:08:37
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/trademark-policy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/trademark-policy/
 published: true
 tags: [ ]
 categories: [ ]

@@ -5,7 +5,7 @@ post_name: were-hiring
 post_date: 2019-07-18 13:55:19
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/were-hiring/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/were-hiring/
 published: true
 tags:
   - hiring

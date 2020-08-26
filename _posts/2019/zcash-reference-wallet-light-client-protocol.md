@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-01-07 12:00:57
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-reference-wallet-light-client-protocol/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-reference-wallet-light-client-protocol/
 published: true
 tags:
   - Wallet

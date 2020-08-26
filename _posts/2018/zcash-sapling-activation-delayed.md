@@ -5,7 +5,7 @@ post_name: zcash-sapling-activation-delayed
 post_date: 2018-06-15 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-sapling-activation-delayed/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-sapling-activation-delayed/
 published: true
 tags:
   - releases

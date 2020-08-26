@@ -5,7 +5,7 @@ post_name: third-party-support
 post_date: 2016-10-29 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/third-party-support/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/third-party-support/
 published: true
 tags:
   - launch

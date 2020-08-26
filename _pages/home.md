@@ -5,7 +5,7 @@ post_name: home
 post_date: 2018-08-24 10:03:07
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/
 published: true
 tags: [ ]
 categories: [ ]

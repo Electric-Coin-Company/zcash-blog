@@ -5,7 +5,7 @@ post_name: new-alpha-release-2mb-blocks
 post_date: 2016-07-08 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-alpha-release-2mb-blocks/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-alpha-release-2mb-blocks/
 published: true
 tags:
   - alpha

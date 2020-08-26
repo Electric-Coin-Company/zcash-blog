@@ -5,7 +5,7 @@ post_name: new-release-1-0-15
 post_date: 2018-03-02 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-1-0-15/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-1-0-15/
 published: true
 tags:
   - Overwinter

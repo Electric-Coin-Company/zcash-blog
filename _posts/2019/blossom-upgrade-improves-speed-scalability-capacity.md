@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-12-02 17:50:18
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/blossom-upgrade-improves-speed-scalability-capacity/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/blossom-upgrade-improves-speed-scalability-capacity/
 published: true
 tags:
   - Blossom

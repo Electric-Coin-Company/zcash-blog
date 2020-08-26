@@ -5,7 +5,7 @@ post_name: announcing-beta-series
 post_date: 2016-09-09 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/announcing-beta-series/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/announcing-beta-series/
 published: true
 tags:
   - beta

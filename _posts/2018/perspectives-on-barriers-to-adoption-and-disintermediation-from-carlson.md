@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-11-08 08:39:56
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-barriers-to-adoption-and-disintermediation-from-carlson/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-barriers-to-adoption-and-disintermediation-from-carlson/
 published: true
 tags:
   - Adoption

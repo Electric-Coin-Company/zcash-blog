@@ -5,7 +5,7 @@ post_name: zcash-in-2017
 post_date: 2017-12-29 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-in-2017/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-in-2017/
 published: true
 tags:
   - community

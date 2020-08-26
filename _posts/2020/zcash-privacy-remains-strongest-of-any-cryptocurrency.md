@@ -9,7 +9,7 @@ post_name: >
 post_date: 2020-06-30 22:53:14
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-privacy-remains-strongest-of-any-cryptocurrency/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-privacy-remains-strongest-of-any-cryptocurrency/
 published: true
 tags:
   - privacy

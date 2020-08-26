@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-09-06 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-privacy-from-linda-xie-zooko-wilcox-and-eran-tromer/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-privacy-from-linda-xie-zooko-wilcox-and-eran-tromer/
 published: true
 tags:
   - Perspectives

@@ -5,7 +5,7 @@ post_name: new-alpha-release-faster-block-times
 post_date: 2016-06-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-alpha-release-faster-block-times/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-alpha-release-faster-block-times/
 published: true
 tags:
   - alpha

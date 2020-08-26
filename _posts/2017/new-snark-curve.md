@@ -5,7 +5,7 @@ post_name: new-snark-curve
 post_date: 2017-03-11 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-snark-curve/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-snark-curve/
 published: true
 tags:
   - cryptography

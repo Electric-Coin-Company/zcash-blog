@@ -5,7 +5,7 @@ post_name: bellman-zksnarks-in-rust
 post_date: 2017-04-04 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/bellman-zksnarks-in-rust/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/bellman-zksnarks-in-rust/
 published: true
 tags:
   - cryptography

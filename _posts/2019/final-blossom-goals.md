@@ -5,7 +5,7 @@ post_name: final-blossom-goals
 post_date: 2019-01-15 21:17:15
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/final-blossom-goals/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/final-blossom-goals/
 published: true
 tags:
   - Blossom

@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-01-18 13:57:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/how-to-donate-cryptocurrency-to-help-venezuelans-right-now/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/how-to-donate-cryptocurrency-to-help-venezuelans-right-now/
 published: true
 tags:
   - Adoption

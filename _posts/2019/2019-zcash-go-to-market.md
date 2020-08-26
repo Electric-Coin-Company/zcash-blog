@@ -5,7 +5,7 @@ post_name: 2019-zcash-go-to-market
 post_date: 2019-01-08 12:02:21
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/2019-zcash-go-to-market/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/2019-zcash-go-to-market/
 published: true
 tags:
   - marketing

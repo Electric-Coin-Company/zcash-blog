@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-02-15 19:16:31
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/earn-zec-on-coinbase-while-you-learn-about-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/earn-zec-on-coinbase-while-you-learn-about-zcash/
 published: true
 tags:
   - ecosystem

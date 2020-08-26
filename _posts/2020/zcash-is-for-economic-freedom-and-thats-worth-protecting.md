@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-05-06 13:02:36
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-is-for-economic-freedom-and-thats-worth-protecting/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-is-for-economic-freedom-and-thats-worth-protecting/
 published: true
 tags:
   - Adoption

@@ -6,7 +6,7 @@ post_name: >
 post_date: 2020-05-29 19:17:14
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/protect-privacy-virtual-hackathon-starts-june-15/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/protect-privacy-virtual-hackathon-starts-june-15/
 published: true
 tags:
   - developer

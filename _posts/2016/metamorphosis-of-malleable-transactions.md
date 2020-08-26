@@ -7,7 +7,7 @@ post_name: metamorphosis-of-malleable-transactions
 post_date: 2016-08-31 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/metamorphosis-of-malleable-transactions/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/metamorphosis-of-malleable-transactions/
 published: true
 tags:
   - bitcoin

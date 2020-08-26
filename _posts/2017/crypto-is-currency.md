@@ -5,7 +5,7 @@ post_name: crypto-is-currency
 post_date: 2017-09-29 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/crypto-is-currency/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/crypto-is-currency/
 published: true
 tags:
   - applications

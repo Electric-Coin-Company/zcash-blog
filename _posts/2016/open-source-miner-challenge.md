@@ -5,7 +5,7 @@ post_name: open-source-miner-challenge
 post_date: 2016-09-27 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/open-source-miner-challenge/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/open-source-miner-challenge/
 published: true
 tags:
   - mining

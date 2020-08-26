@@ -5,7 +5,7 @@ post_name: overwinter
 post_date: 2018-03-02 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/overwinter/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/overwinter/
 published: true
 tags:
   - consensus

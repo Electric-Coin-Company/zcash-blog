@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-04-22 15:10:49
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-zcash-light-client-support-resources-and-documentation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-zcash-light-client-support-resources-and-documentation/
 published: true
 tags:
   - developer

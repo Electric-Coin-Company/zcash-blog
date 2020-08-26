@@ -5,7 +5,7 @@ post_name: hash-functions
 post_date: 2017-02-24 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/hash-functions/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/hash-functions/
 published: true
 tags:
   - BLAKE2

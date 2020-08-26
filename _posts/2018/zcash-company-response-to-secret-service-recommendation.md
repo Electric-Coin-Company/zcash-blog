@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-06-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-company-response-to-secret-service-recommendation/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-company-response-to-secret-service-recommendation/
 published: true
 tags:
   - privacy

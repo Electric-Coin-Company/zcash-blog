@@ -5,7 +5,7 @@ post_name: new-release-minor-bugfixes
 post_date: 2016-11-03 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-minor-bugfixes/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-minor-bugfixes/
 published: true
 tags:
   - bugs

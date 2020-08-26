@@ -5,7 +5,7 @@ post_name: new-release-1-1-0
 post_date: 2018-04-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-1-1-0/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-1-1-0/
 published: true
 tags:
   - bugs

@@ -5,7 +5,7 @@ post_name: bolt-private-payment-channels
 post_date: 2016-08-01 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/bolt-private-payment-channels/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/bolt-private-payment-channels/
 published: true
 tags:
   - bitcoin

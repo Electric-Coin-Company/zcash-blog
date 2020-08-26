@@ -5,7 +5,7 @@ post_name: state-of-the-network-2017-04-03
 post_date: 2017-04-02 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/state-of-the-network-2017-04-03/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/state-of-the-network-2017-04-03/
 published: true
 tags:
   - bugs

@@ -5,7 +5,7 @@ post_name: september-2016-new-hire-post
 post_date: 2016-09-05 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/september-2016-new-hire-post/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/september-2016-new-hire-post/
 published: true
 tags:
   - hiring

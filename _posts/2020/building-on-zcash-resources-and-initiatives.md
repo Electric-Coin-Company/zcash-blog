@@ -6,7 +6,7 @@ post_name: >
 post_date: 2020-05-01 20:58:05
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/building-on-zcash-resources-and-initiatives/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/building-on-zcash-resources-and-initiatives/
 published: true
 tags:
   - community

@@ -5,7 +5,7 @@ post_name: security-announcement-2016-11-22
 post_date: 2016-11-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/security-announcement-2016-11-22/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/security-announcement-2016-11-22/
 published: true
 tags:
   - bugs

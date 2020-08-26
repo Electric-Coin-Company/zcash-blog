@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-09-13 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/perspectives-on-governance-from-wilcox-zeppettini-buterin/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/perspectives-on-governance-from-wilcox-zeppettini-buterin/
 published: true
 tags:
   - governance

@@ -5,7 +5,7 @@ post_name: the-electric-coin-company-has-a-new-look
 post_date: 2019-05-31 17:57:25
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/the-electric-coin-company-has-a-new-look/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/the-electric-coin-company-has-a-new-look/
 published: true
 tags:
   - marketing

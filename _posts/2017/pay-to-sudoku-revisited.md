@@ -5,7 +5,7 @@ post_name: pay-to-sudoku-revisited
 post_date: 2017-06-08 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/pay-to-sudoku-revisited/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/pay-to-sudoku-revisited/
 published: true
 tags:
   - cryptography

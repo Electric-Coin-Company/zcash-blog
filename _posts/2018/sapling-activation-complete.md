@@ -5,7 +5,7 @@ post_name: sapling-activation-complete
 post_date: 2018-10-28 14:04:39
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sapling-activation-complete/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sapling-activation-complete/
 published: true
 tags:
   - activation

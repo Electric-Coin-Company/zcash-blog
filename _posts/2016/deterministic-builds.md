@@ -5,7 +5,7 @@ post_name: deterministic-builds
 post_date: 2016-10-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/deterministic-builds/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/deterministic-builds/
 published: true
 tags:
   - deterministic builds

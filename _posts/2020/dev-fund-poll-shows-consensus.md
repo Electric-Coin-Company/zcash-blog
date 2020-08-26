@@ -5,7 +5,7 @@ post_name: dev-fund-poll-shows-consensus
 post_date: 2020-01-28 23:02:15
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/dev-fund-poll-shows-consensus/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/dev-fund-poll-shows-consensus/
 published: true
 tags:
   - community

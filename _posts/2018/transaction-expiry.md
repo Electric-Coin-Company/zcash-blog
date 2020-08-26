@@ -5,7 +5,7 @@ post_name: transaction-expiry
 post_date: 2018-05-31 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/transaction-expiry/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/transaction-expiry/
 published: true
 tags:
   - features

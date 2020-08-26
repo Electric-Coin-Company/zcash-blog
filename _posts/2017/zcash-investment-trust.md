@@ -7,7 +7,7 @@ post_name: zcash-investment-trust
 post_date: 2017-11-09 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-investment-trust/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-investment-trust/
 published: true
 tags:
   - ecosystem

@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-08-12 03:06:56
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/a-blank-slate-the-community-to-decide-its-future/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/a-blank-slate-the-community-to-decide-its-future/
 published: true
 tags:
   - community

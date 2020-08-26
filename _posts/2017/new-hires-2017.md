@@ -5,7 +5,7 @@ post_name: new-hires-2017
 post_date: 2017-11-27 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-hires-2017/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-hires-2017/
 published: true
 tags:
   - hiring

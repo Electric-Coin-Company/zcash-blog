@@ -5,7 +5,7 @@ post_name: zcash-begins
 post_date: 2016-10-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-begins/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-begins/
 published: true
 tags:
   - launch

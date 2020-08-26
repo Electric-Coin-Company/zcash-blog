@@ -5,7 +5,7 @@ post_name: anatomy-of-zcash
 post_date: 2016-11-23 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/anatomy-of-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/anatomy-of-zcash/
 published: true
 tags:
   - explainers

@@ -5,7 +5,7 @@ post_name: nu4-feature-selection
 post_date: 2020-05-07 18:42:40
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/nu4-feature-selection/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/nu4-feature-selection/
 published: true
 tags:
   - Canopy

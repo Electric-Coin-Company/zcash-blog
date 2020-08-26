@@ -5,7 +5,7 @@ post_name: reaching-consensus
 post_date: 2020-06-05 18:10:51
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/reaching-consensus/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/reaching-consensus/
 published: true
 tags: [ ]
 categories: [ ]

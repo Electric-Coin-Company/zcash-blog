@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-12-17 11:05:04
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/reducing-shielded-proving-time-in-sapling/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/reducing-shielded-proving-time-in-sapling/
 published: true
 tags:
   - cryptography

@@ -5,7 +5,7 @@ post_name: state-of-the-network-1-year
 post_date: 2017-10-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/state-of-the-network-1-year/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/state-of-the-network-1-year/
 published: true
 tags:
   - launch

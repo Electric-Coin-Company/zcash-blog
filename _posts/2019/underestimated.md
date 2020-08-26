@@ -5,7 +5,7 @@ post_name: underestimated
 post_date: 2019-09-19 16:41:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/underestimated/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/underestimated/
 published: true
 tags: [ ]
 categories:

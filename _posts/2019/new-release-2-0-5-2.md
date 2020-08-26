@@ -5,7 +5,7 @@ post_name: new-release-2-0-5-2
 post_date: 2019-05-21 11:05:58
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-2-0-5-2/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-2-0-5-2/
 published: true
 tags:
   - bugs

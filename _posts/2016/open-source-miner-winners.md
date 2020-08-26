@@ -7,7 +7,7 @@ post_name: open-source-miner-winners
 post_date: 2016-12-03 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/open-source-miner-winners/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/open-source-miner-winners/
 published: true
 tags:
   - mining

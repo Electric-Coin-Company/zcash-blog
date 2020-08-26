@@ -5,7 +5,7 @@ post_name: fellowship-of-the-zec
 post_date: 2019-12-03 21:36:26
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/fellowship-of-the-zec/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/fellowship-of-the-zec/
 published: true
 tags:
   - community

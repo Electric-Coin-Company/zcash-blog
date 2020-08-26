@@ -7,7 +7,7 @@ post_name: ux-guidelines-for-wallet-developers
 post_date: 2018-01-16 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ux-guidelines-for-wallet-developers/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ux-guidelines-for-wallet-developers/
 published: true
 tags:
   - ecosystem

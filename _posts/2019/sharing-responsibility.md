@@ -5,7 +5,7 @@ post_name: sharing-responsibility
 post_date: 2019-02-22 15:09:47
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sharing-responsibility/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sharing-responsibility/
 published: true
 tags:
   - community

@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-04-09 14:01:23
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/people-behind-zcash-technology-jack-grigg-engineer/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/people-behind-zcash-technology-jack-grigg-engineer/
 published: true
 tags:
   - team

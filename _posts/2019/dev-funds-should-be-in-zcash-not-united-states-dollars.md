@@ -8,7 +8,7 @@ post_name: >
 post_date: 2019-12-17 21:00:19
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/dev-funds-should-be-in-zcash-not-united-states-dollars/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/dev-funds-should-be-in-zcash-not-united-states-dollars/
 published: true
 tags:
   - Dev Fund

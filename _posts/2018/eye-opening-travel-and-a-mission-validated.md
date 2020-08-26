@@ -8,7 +8,7 @@ post_name: >
 post_date: 2018-04-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/eye-opening-travel-and-a-mission-validated/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/eye-opening-travel-and-a-mission-validated/
 published: true
 tags:
   - India

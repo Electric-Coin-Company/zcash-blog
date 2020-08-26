@@ -5,7 +5,7 @@ post_name: release-cycle-update
 post_date: 2017-09-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/release-cycle-update/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/release-cycle-update/
 published: true
 tags:
   - consensus

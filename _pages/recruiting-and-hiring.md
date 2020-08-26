@@ -7,7 +7,7 @@ post_name: recruiting-and-hiring
 post_date: 2018-11-02 15:31:52
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/recruiting-and-hiring/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/recruiting-and-hiring/
 published: true
 tags: [ ]
 categories: [ ]

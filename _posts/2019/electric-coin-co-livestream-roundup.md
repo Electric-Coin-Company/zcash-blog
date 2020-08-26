@@ -5,7 +5,7 @@ post_name: electric-coin-co-livestream-roundup
 post_date: 2019-11-20 23:01:36
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/electric-coin-co-livestream-roundup/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/electric-coin-co-livestream-roundup/
 published: true
 tags:
   - Dev Fund

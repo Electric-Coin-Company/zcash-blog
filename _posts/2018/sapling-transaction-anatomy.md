@@ -5,7 +5,7 @@ post_name: sapling-transaction-anatomy
 post_date: 2018-10-16 14:45:44
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/sapling-transaction-anatomy/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/sapling-transaction-anatomy/
 published: true
 tags:
   - explainers

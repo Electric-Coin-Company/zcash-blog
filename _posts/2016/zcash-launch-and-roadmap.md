@@ -5,7 +5,7 @@ post_name: zcash-launch-and-roadmap
 post_date: 2016-08-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-launch-and-roadmap/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-launch-and-roadmap/
 published: true
 tags:
   - launch

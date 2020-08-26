@@ -5,7 +5,7 @@ post_name: atomic-trades
 post_date: 2017-09-11 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/atomic-trades/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/atomic-trades/
 published: true
 tags:
   - tools

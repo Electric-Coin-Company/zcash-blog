@@ -5,7 +5,7 @@ post_name: explaining-flyclient
 post_date: 2020-03-27 17:05:18
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/explaining-flyclient/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/explaining-flyclient/
 published: true
 tags:
   - heartwood

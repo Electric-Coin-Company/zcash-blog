@@ -5,7 +5,7 @@ post_name: viewing-keys-selective-disclosure
 post_date: 2018-01-22 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/viewing-keys-selective-disclosure/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/viewing-keys-selective-disclosure/
 published: true
 tags:
   - explainers

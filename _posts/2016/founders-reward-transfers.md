@@ -5,7 +5,7 @@ post_name: founders-reward-transfers
 post_date: 2016-11-15 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/founders-reward-transfers/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/founders-reward-transfers/
 published: true
 tags:
   - "Founders' Reward"

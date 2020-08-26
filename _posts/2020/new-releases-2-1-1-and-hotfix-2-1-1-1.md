@@ -5,7 +5,7 @@ post_name: new-releases-2-1-1-and-hotfix-2-1-1-1
 post_date: 2020-02-07 04:55:05
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-releases-2-1-1-and-hotfix-2-1-1-1/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-releases-2-1-1-and-hotfix-2-1-1-1/
 published: true
 tags:
   - hotfix

@@ -7,7 +7,7 @@ post_name: new-mpc-protocol
 post_date: 2017-10-31 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-mpc-protocol/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-mpc-protocol/
 published: true
 tags:
   - cryptography

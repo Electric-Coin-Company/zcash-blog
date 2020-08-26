@@ -5,7 +5,7 @@ post_name: zcash-1-0-9-postponed
 post_date: 2017-04-17 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-1-0-9-postponed/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-1-0-9-postponed/
 published: true
 tags:
   - releases

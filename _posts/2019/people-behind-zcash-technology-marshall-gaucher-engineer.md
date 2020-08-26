@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-02-07 15:10:44
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/people-behind-zcash-technology-marshall-gaucher-engineer/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/people-behind-zcash-technology-marshall-gaucher-engineer/
 published: true
 tags:
   - team

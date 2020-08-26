@@ -5,7 +5,7 @@ post_name: overwinter-activated-successfully
 post_date: 2018-06-26 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/overwinter-activated-successfully/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/overwinter-activated-successfully/
 published: true
 tags:
   - governance

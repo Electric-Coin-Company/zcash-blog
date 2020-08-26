@@ -5,7 +5,7 @@ post_name: zksnarks-in-ethereum
 post_date: 2016-07-28 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zksnarks-in-ethereum/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zksnarks-in-ethereum/
 published: true
 tags:
   - Ethereum

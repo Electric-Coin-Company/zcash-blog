@@ -5,7 +5,7 @@ post_name: cultivating-sapling-faster-zksnarks
 post_date: 2017-09-13 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/cultivating-sapling-faster-zksnarks/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/cultivating-sapling-faster-zksnarks/
 published: true
 tags:
   - protocol

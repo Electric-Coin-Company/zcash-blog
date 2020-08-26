@@ -6,7 +6,7 @@ post_name: >
 post_date: 2020-03-03 21:54:45
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/ecc-engineering-flight-plan-mid-horizon-update/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/ecc-engineering-flight-plan-mid-horizon-update/
 published: true
 tags:
   - Flight Plan

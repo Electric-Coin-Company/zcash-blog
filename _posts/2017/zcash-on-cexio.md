@@ -5,7 +5,7 @@ post_name: zcash-on-cexio
 post_date: 2017-10-02 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-on-cexio/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-on-cexio/
 published: true
 tags:
   - applications

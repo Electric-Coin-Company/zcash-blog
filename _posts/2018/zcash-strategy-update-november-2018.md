@@ -5,7 +5,7 @@ post_name: zcash-strategy-update-november-2018
 post_date: 2018-11-15 11:54:40
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-strategy-update-november-2018/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-strategy-update-november-2018/
 published: true
 tags:
   - strategy

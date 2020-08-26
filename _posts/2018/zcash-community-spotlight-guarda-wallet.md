@@ -5,7 +5,7 @@ post_name: zcash-community-spotlight-guarda-wallet
 post_date: 2018-04-24 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-community-spotlight-guarda-wallet/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-community-spotlight-guarda-wallet/
 published: true
 tags: [ ]
 categories:

@@ -5,7 +5,7 @@ post_name: zcash-on-ios
 post_date: 2017-04-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-on-ios/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-on-ios/
 published: true
 tags:
   - applications

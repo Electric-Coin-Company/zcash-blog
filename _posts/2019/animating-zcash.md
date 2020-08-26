@@ -5,7 +5,7 @@ post_name: animating-zcash
 post_date: 2019-07-25 05:07:11
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/animating-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/animating-zcash/
 published: true
 tags:
   - Adoption

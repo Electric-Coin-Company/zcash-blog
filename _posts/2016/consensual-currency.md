@@ -5,7 +5,7 @@ post_name: consensual-currency
 post_date: 2016-10-07 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/consensual-currency/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/consensual-currency/
 published: true
 tags:
   - community

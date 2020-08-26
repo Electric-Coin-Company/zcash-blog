@@ -7,7 +7,7 @@ post_name: zcash-website-now-in-english-and-chinese
 post_date: 2016-07-13 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-website-now-in-english-and-chinese/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-website-now-in-english-and-chinese/
 published: true
 tags:
   - translations

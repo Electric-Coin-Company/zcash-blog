@@ -6,7 +6,7 @@ post_name: >
 post_date: 2019-02-21 12:41:03
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/goodbye-zcash-company-hello-electric-coin-company/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/goodbye-zcash-company-hello-electric-coin-company/
 published: true
 tags:
   - name change

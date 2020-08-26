@@ -5,7 +5,7 @@ post_name: getting-started-developing
 post_date: 2017-05-11 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/getting-started-developing/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/getting-started-developing/
 published: true
 tags:
   - applications

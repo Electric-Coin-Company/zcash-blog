@@ -7,7 +7,7 @@ post_name: zcash-eth
 post_date: 2017-01-19 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/zcash-eth/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/zcash-eth/
 published: true
 tags:
   - Ethereum

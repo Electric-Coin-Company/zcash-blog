@@ -8,7 +8,7 @@ post_name: >
 post_date: 2020-06-04 12:39:30
 layout: page
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/the-future-of-zcash-development-and-governance/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/the-future-of-zcash-development-and-governance/
 published: true
 tags: [ ]
 categories: [ ]

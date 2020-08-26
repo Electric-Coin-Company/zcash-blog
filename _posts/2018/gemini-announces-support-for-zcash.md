@@ -5,7 +5,7 @@ post_name: gemini-announces-support-for-zcash
 post_date: 2018-05-14 00:00:00
 layout: post
 link: >
-  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/gemini-announces-support-for-zcash/
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/gemini-announces-support-for-zcash/
 published: true
 tags:
   - Exchanges
