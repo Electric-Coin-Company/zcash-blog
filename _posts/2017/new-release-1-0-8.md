@@ -1,0 +1,30 @@
+---
+ID: 4920
+post_title: 'New Release: 1.0.8'
+post_name: new-release-1-0-8
+post_date: 2017-03-27 00:00:00
+layout: post
+link: >
+  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-1-0-8/
+published: true
+tags:
+  - releases
+  - sprout
+categories:
+  - General
+---
+<p>Today we're announcing the release of Zcash 1.0.8.  This release focuses on backporting features from upstream Bitcoin and usability improvements to the RPC interface.</p>
+<p>Summary of the changes in this release:</p>
+<ol class="arabic simple">
+<li>The <cite>z_importkey</cite> RPC call now lets the user specify the number of blocks to rescan when importing keys (<a class="reference external" href="https://github.com/zcash/zcash/pull/2052">#2052</a>).</li>
+<li>The <cite>getblock</cite> RPC call now returns an <cite>anchor</cite> field (the anchor is the Merkle tree root of the note commitment tree) (<a class="reference external" href="https://github.com/zcash/zcash/pull/2168">#2168</a>) and also lets the user specify a block by height, as well as block hash (<a class="reference external" href="https://github.com/zcash/zcash/pull/2187">#2187</a>).</li>
+<li>Backported a libevent-based HTTP server to improve JSON-RPC handling (<a class="reference external" href="https://github.com/zcash/zcash/pull/2176">#2176</a>).</li>
+<li>Backported Tor ephemeral hidden service support, making it easier for users to run Zcash over Tor (<a class="reference external" href="https://github.com/zcash/zcash/pull/2177">#2177</a>).</li>
+<li>Backported improvements to the <cite>getmempoolinfo</cite> RPC call (<a class="reference external" href="https://github.com/zcash/zcash/pull/2175">#2175</a>).</li>
+<li>Cleaned up the source tree by removing 181,000 lines of redundant QT code (<a class="reference external" href="https://github.com/zcash/zcash/pull/1636">#1636</a>).</li>
+<li>Introduced the Rust language to the Zcash build system (<a class="reference external" href="https://github.com/zcash/zcash/pull/2183">#2183</a>), in preparation for writing parts of future Zcash versions in Rust.</li>
+<li>Updated the metrics screen (<a class="reference external" href="https://github.com/zcash/zcash/pull/2198">#2198</a>) and minor UI tweak (<a class="reference external" href="https://github.com/zcash/zcash/pull/2203">#2203</a>).</li>
+<li>Updated documentation (<a class="reference external" href="https://github.com/zcash/zcash/pull/2157">#2157</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2161">#2161</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2184">#2184</a>).</li>
+</ol>
+<p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">1.0 User Guide</a> for more information.</p>
+<p>For a more complete list of changes, see our <a class="reference external" href="https://github.com/zcash/zcash/milestone/52">1.0.8</a> GitHub milestone. To follow our progress, watch <a class="reference external" href="https://github.com/zcash/zcash/milestones">the GitHub project</a> and <a class="reference external" href="https://forum.z.cash/">join the forum</a>.</p>
