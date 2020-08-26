@@ -1,0 +1,31 @@
+---
+ID: 4917
+post_title: 'New Release: 1.0.6'
+post_name: new-release-1-0-6
+post_date: 2017-02-13 00:00:00
+layout: post
+link: >
+  http://localhost/~ryan.zcash/electriccoinco-wordpress/blog/new-release-1-0-6/
+published: true
+tags:
+  - releases
+  - sprout
+categories:
+  - General
+---
+<p>Today we're announcing the release of Zcash 1.0.6. This release focuses on improving functionality and usability of low-level interfaces used by external software interfacing with Zcash, and on bolstering several security components.</p>
+<p>Summary of the changes in this release:</p>
+<ol class="arabic simple">
+<li>Users can now mine to a single address by using new zcashd options <cite>-mineraddress</cite> and <cite>-minetolocalwallet</cite> (<a class="reference external" href="https://github.com/zcash/zcash/pull/1965">#1965</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2081">#2081</a>)</li>
+<li>Updated RPC calls <cite>getrawtransaction</cite> and <cite>decoderawtransaction</cite> to display all fields of a JoinSplit. Now includes the zk-proof, ephemeral key, random seed and encrypted ciphertexts (<a class="reference external" href="https://github.com/zcash/zcash/pull/2054">#2054</a>)</li>
+<li>Updated logging in RPC call <cite>z_sendmany</cite> for the debug categories <cite>zrpc</cite> and <cite>zrpcunsafe</cite> (<a class="reference external" href="https://github.com/zcash/zcash/pull/2058">#2058</a>)</li>
+<li>Fixed a bug which prevented passing a fee parameter of zero to RPC call <cite>z_sendmany</cite> (<a class="reference external" href="https://github.com/zcash/zcash/pull/2068">#2068</a>)</li>
+<li>Added build option <cite>--disable-mining</cite> to zcutil/build.sh to allow removal of mining code when compiling (<a class="reference external" href="https://github.com/zcash/zcash/pull/1836">#1836</a>)</li>
+<li>ZeroMQ notification support has been backported (<a class="reference external" href="https://github.com/zcash/zcash/pull/2050">#2050</a>)</li>
+<li>Upgraded OpenSSL to 1.1.0d (<a class="reference external" href="https://github.com/zcash/zcash/pull/2051">#2051</a>). We now also use libsodium’s CSPRNG instead of OpenSSL’s (<a class="reference external" href="https://github.com/zcash/zcash/pull/1706">#1706</a>)</li>
+<li>Backported and updated Univalue library to replace usage of json spirit library (<a class="reference external" href="https://github.com/zcash/zcash/pull/1990">#1990</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2082">#2082</a>)</li>
+<li>Removed unnecessary exceptions from libsnark (<a class="reference external" href="https://github.com/zcash/zcash/pull/2080">#2080</a>)</li>
+<li>Added zcashd option flag <cite>-experimentalfeatures</cite> (<a class="reference external" href="https://github.com/zcash/zcash/pull/2056">#2056</a>), fixed a bug in a test (<a class="reference external" href="https://github.com/zcash/zcash/pull/2078">#2078</a>) and updated documentation (<a class="reference external" href="https://github.com/zcash/zcash/pull/2069">#2069</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2077">#2077</a>)</li>
+</ol>
+<p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">1.0 User Guide</a> for more information.</p>
+<p>For a more complete list of changes, see our <a class="reference external" href="https://github.com/zcash/zcash/milestone/50">1.0.6</a> GitHub milestone. To follow our progress, watch <a class="reference external" href="https://github.com/zcash/zcash/milestones">the GitHub project</a> and <a class="reference external" href="https://forum.z.cash/">join the forum</a>.</p>
