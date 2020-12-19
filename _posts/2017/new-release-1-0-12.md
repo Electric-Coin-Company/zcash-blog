@@ -1,0 +1,31 @@
+---
+ID: 4912
+post_title: 'New Release: 1.0.12'
+post_name: new-release-1-0-12
+post_date: 2017-09-28 00:00:00
+layout: post
+link: >
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-1-0-12/
+published: true
+tags:
+  - bugs
+  - releases
+  - sprout
+categories:
+  - General
+---
+<p>Today we're announcing the release of Zcash 1.0.12, which includes bug fixes and usability improvements. It also adds a new RPC method <tt class="docutils literal">z_shieldcoinbase</tt> as an experimental feature, for easily shielding coinbase UTXOs. We encourage mining pools and exchanges to test it out over the next few weeks, and give feedback, before we make it a fully-supported RPC method in an upcoming release.</p>
+<p>Summary of the changes included in this release:</p>
+<ol class="arabic simple">
+<li>We added <tt class="docutils literal">z_shieldcoinbase</tt> as an experimental feature. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2615">#2615</a>)</li>
+<li>We changed the <tt class="docutils literal">importprivkey</tt> RPC method to return the public address corresponding to the imported key. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2616">#2616</a>)</li>
+<li>We fixed build issues encountered when using GCC 7. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2545">#2545</a>)</li>
+<li>We added support for fetching the public network parameters from IPFS. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2597">#2597</a>)</li>
+</ol>
+<p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">1.0 User Guide</a> for more information.</p>
+<p>For a more complete list of changes, see our <a class="reference external" href="https://github.com/zcash/zcash/milestone/60?closed=1">1.0.12</a> GitHub milestone. To follow our progress, watch <a class="reference external" href="https://github.com/zcash/zcash/milestones">the GitHub project</a> and <a class="reference external" href="https://forum.z.cash/">join the forum</a>.</p>
+<p><strong>REMINDER</strong>: The 1.0.9 release will reach deprecation in the next day or so, and 1.0.9 nodes will automatically shut down at that time. See our <a class="reference external" href="https://z.cash/blog/release-cycle-update.html">blog post last week</a> for details. Users running 1.0.9 should take one of the following steps:</p>
+<ul class="simple">
+<li>Upgrade to the <a class="reference external" href="https://z.cash/download.html">latest release</a> of <tt class="docutils literal">zcashd</tt>.</li>
+<li>Opt-out of deprecation by using the <tt class="docutils literal"><span class="pre">-disabledeprecation=1.0.9</span></tt> config flag.</li>
+</ul>

@@ -1,0 +1,33 @@
+---
+ID: 4918
+post_title: 'New Release: 1.0.7'
+post_name: new-release-1-0-7
+post_date: 2017-03-06 00:00:00
+layout: post
+link: >
+  https://dev-electriccoinco-wordpress.pantheonsite.io/blog/new-release-1-0-7/
+published: true
+tags:
+  - releases
+  - sprout
+categories:
+  - General
+---
+<p>Today we're announcing the release of Zcash 1.0.7. This release focuses on updating Zcash to be compatible with upstream changes, fixing bugs, and adding alerts, tests, and checkpoints.</p>
+<div id="upcoming-testnet-upgrade" class="section">
+<h2>Upcoming Testnet Upgrade</h2>
+<p>The Zcash testnet will soon be upgraded in order to resolve an issue with the Testnet Founders' Reward addresses. This <em>will not</em> affect the main Zcash network. Testnet users should be sure to update their version to 1.0.7, or a chain fork may occur as a result of these changes.</p>
+<p>Summary of the changes in this release:</p>
+<ol class="arabic simple">
+<li>Pull in upstream changes related to testing, the RPC interface, as well as others. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2099">#2099</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2100">#2100</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2101">#2101</a>)</li>
+<li>Keep a record of alerts sent to mainnet. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2093">#2093</a>)</li>
+<li>Pause mining during joinsplit creation. (<a class="reference external" href="https://github.com/zcash/zcash/pull/1932">#1932</a>)</li>
+<li>Fix bug in testnet and update Founders' Reward addresses. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2114">#2114</a>)</li>
+<li>Large shielded transactions using the default fee are no longer treated as "free" transactions. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2141">#2141</a>)</li>
+<li>Improve auto-generated manpages. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2124">#2124</a>)</li>
+<li>Add checkpoint on testnet and mainnet. (<a class="reference external" href="https://github.com/zcash/zcash/pull/2128">#2128</a>, <a class="reference external" href="https://github.com/zcash/zcash/pull/2126">#2126</a>)</li>
+</ol>
+<p>We're encouraging all users and miners to update to this new version. See our <a class="reference external" href="https://z.cash/download.html">download</a> page and the <a class="reference external" href="https://github.com/zcash/zcash/wiki/1.0-User-Guide">1.0 User Guide</a> for more information.</p>
+<p>Testnet users must upgrade to version 1.0.7 by block 53127, as that is when the testnet network changes will take place. Users who do not upgrade may be left on their own chain, contributing to a chain fork.</p>
+<p>For a more complete list of changes, see our <a class="reference external" href="https://github.com/zcash/zcash/milestone/51">1.0.7</a> GitHub milestone. To follow our progress, watch <a class="reference external" href="https://github.com/zcash/zcash/milestones">the GitHub project</a> and <a class="reference external" href="https://forum.z.cash/">join the forum</a>.</p>
+</div>
